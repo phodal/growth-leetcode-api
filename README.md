@@ -27,7 +27,7 @@ Note:
 Your solution should run in O(log n) time and O(1) space.
 
 
-==============================
+------------------------------
 
 Coin Change 2 
 ---
@@ -70,7 +70,7 @@ Input: amount = 10, coins = [10]
 Output: 1
 
 
-==============================
+------------------------------
 
 Largest Palindrome Product 
 ---
@@ -89,7 +89,7 @@ Explanation: 99 x 91 = 9009, 9009 % 1337 = 987
 Note:
 The range of n is [1,8].
 
-==============================
+------------------------------
 
 Find All Duplicates in an Array 
 ---
@@ -108,7 +108,7 @@ Input:
 Output:
 [2,3]
 
-==============================
+------------------------------
 
 Two Sum 
 ---
@@ -126,7 +126,7 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 
 
-==============================
+------------------------------
 
 Add Two Numbers 
 ---
@@ -138,7 +138,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 0 -> 8
-==============================
+------------------------------
 
 Longest Substring Without Repeating Characters 
 ---
@@ -152,7 +152,7 @@ Given "abcabcbb", the answer is "abc", which the length is 3.
 Given "bbbbb", the answer is "b", with the length of 1.
 
 Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
-==============================
+------------------------------
 
 Median of Two Sorted Arrays 
 ---
@@ -178,7 +178,7 @@ nums2 = [3, 4]
 The median is (2 + 3)/2 = 2.5
 
 
-==============================
+------------------------------
 
 Longest Palindromic Substring 
 ---
@@ -202,7 +202,7 @@ Input: "cbbd"
 Output: "bb"
 
 
-==============================
+------------------------------
 
 ZigZag Conversion 
 ---
@@ -224,7 +224,7 @@ string convert(string text, int nRows);
 
 convert("PAYPALISHIRING", 3) should return "PAHNAPLSIIGYIR".
 
-==============================
+------------------------------
 
 Reverse Integer 
 ---
@@ -255,7 +255,7 @@ For the purpose of this problem, assume that your function returns 0 when the re
 Note:
 The input is assumed to be a 32-bit signed integer. Your function should return 0 when the reversed integer overflows.
 
-==============================
+------------------------------
 
 String to Integer (atoi) 
 ---
@@ -286,7 +286,7 @@ If the first sequence of non-whitespace characters in str is not a valid integra
 If no valid conversion could be performed, a zero value is returned. If the correct value is out of the range of representable values, INT_MAX (2147483647) or INT_MIN (-2147483648) is returned.
 
 
-==============================
+------------------------------
 
 Palindrome Number 
 ---
@@ -306,7 +306,7 @@ You could also try reversing an integer. However, if you have solved the problem
 There is a more generic way of solving this problem.
 
 
-==============================
+------------------------------
 
 Regular Expression Matching 
 ---
@@ -331,7 +331,7 @@ isMatch("aa", ".*") → true
 isMatch("ab", ".*") → true
 isMatch("aab", "c*a*b") → true
 
-==============================
+------------------------------
 
 Container With Most Water 
 ---
@@ -340,7 +340,7 @@ Given n non-negative integers a1, a2, ..., an, where each represents a point at 
 
 Note: You may not slant the container and n is at least 2.
 
-==============================
+------------------------------
 
 Integer to Roman 
 ---
@@ -349,7 +349,7 @@ Given an integer, convert it to a roman numeral.
 
 
 Input is guaranteed to be within the range from 1 to 3999.
-==============================
+------------------------------
 
 Roman to Integer 
 ---
@@ -357,14 +357,14 @@ Roman to Integer
 Given a roman numeral, convert it to an integer.
 
 Input is guaranteed to be within the range from 1 to 3999.
-==============================
+------------------------------
 
 Longest Common Prefix 
 ---
 
 Write a function to find the longest common prefix string amongst an array of strings.
 
-==============================
+------------------------------
 
 3Sum 
 ---
@@ -382,7 +382,7 @@ A solution set is:
   [-1, -1, 2]
 ]
 
-==============================
+------------------------------
 
 3Sum Closest 
 ---
@@ -394,7 +394,7 @@ Given an array S of n integers, find three integers in S such that the sum is cl
 
     The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 
-==============================
+------------------------------
 
 Letter Combinations of a Phone Number 
 ---
@@ -415,7 +415,7 @@ Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
 Note:
 Although the above answer is in lexicographical order, your answer could be in any order you want.
 
-==============================
+------------------------------
 
 4Sum 
 ---
@@ -435,7 +435,7 @@ A solution set is:
   [-2,  0, 0, 2]
 ]
 
-==============================
+------------------------------
 
 Remove Nth Node From End of List 
 ---
@@ -456,7 +456,7 @@ Note:
 Given n will always be valid.
 Try to do this in one pass.
 
-==============================
+------------------------------
 
 Valid Parentheses 
 ---
@@ -465,13 +465,13 @@ Given a string containing just the characters '(', ')', '{', '}', '[' and ']', d
 
 The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.
 
-==============================
+------------------------------
 
 Merge Two Sorted Lists 
 ---
 
 Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
-==============================
+------------------------------
 
 Generate Parentheses 
 ---
@@ -492,7 +492,7 @@ For example, given n = 3, a solution set is:
   "()()()"
 ]
 
-==============================
+------------------------------
 
 Merge k Sorted Lists 
 ---
@@ -500,7 +500,7 @@ Merge k Sorted Lists
 
 Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
 
-==============================
+------------------------------
 
 Swap Nodes in Pairs 
 ---
@@ -517,7 +517,7 @@ Given 1->2->3->4, you should return the list as 2->1->4->3.
 
 Your algorithm should use only constant space. You may not modify the values in the list, only nodes itself can be changed.
 
-==============================
+------------------------------
 
 Reverse Nodes in k-Group 
 ---
@@ -545,7 +545,7 @@ For k = 2, you should return: 2->1->4->3->5
 
 For k = 3, you should return: 3->2->1->4->5
 
-==============================
+------------------------------
 
 Remove Duplicates from Sorted Array 
 ---
@@ -564,7 +564,7 @@ Given input array nums = [1,1,2],
 
 Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively. It doesn't matter what you leave beyond the new length.
 
-==============================
+------------------------------
 
 Remove Element 
 ---
@@ -588,7 +588,7 @@ Your function should return length = 2, with the first two elements of nums bein
   Did you use the property of "the order of elements can be changed"?
   What happens when the elements to remove are rare?
 
-==============================
+------------------------------
 
 Implement strStr() 
 ---
@@ -599,7 +599,7 @@ Implement strStr().
 
 Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
-==============================
+------------------------------
 
 Divide Two Integers 
 ---
@@ -610,7 +610,7 @@ Divide two integers without using multiplication, division and mod operator.
 
 If it is overflow, return MAX_INT.
 
-==============================
+------------------------------
 
 Substring with Concatenation of All Words 
 ---
@@ -629,7 +629,7 @@ words: ["foo", "bar"]
 You should return the indices: [0,9].
 (order does not matter).
 
-==============================
+------------------------------
 
 Next Permutation 
 ---
@@ -649,7 +649,7 @@ Here are some examples. Inputs are in the left-hand column and its corresponding
 3,2,1 &#8594; 1,2,3
 1,1,5 &#8594; 1,5,1
 
-==============================
+------------------------------
 
 Longest Valid Parentheses 
 ---
@@ -662,7 +662,7 @@ For "(()", the longest valid parentheses substring is "()", which has length = 2
 
 Another example is ")()())", where the longest valid parentheses substring is "()()", which has length = 4.
 
-==============================
+------------------------------
 
 Search in Rotated Sorted Array 
 ---
@@ -674,7 +674,7 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 You are given a target value to search. If found in the array return its index, otherwise return -1.
 
 You may assume no duplicate exists in the array.
-==============================
+------------------------------
 
 Search for a Range 
 ---
@@ -690,7 +690,7 @@ For example,
 Given [5, 7, 7, 8, 8, 10] and target value 8,
 return [3, 4].
 
-==============================
+------------------------------
 
 Search Insert Position 
 ---
@@ -706,7 +706,7 @@ Here are few examples.
 [1,3,5,6], 7 &#8594; 4
 [1,3,5,6], 0 &#8594; 0
 
-==============================
+------------------------------
 
 Valid Sudoku 
 ---
@@ -723,7 +723,7 @@ A partially filled sudoku which is valid.
 Note:
 A valid Sudoku board (partially filled) is not necessarily solvable. Only the filled cells need to be validated.
 
-==============================
+------------------------------
 
 Sudoku Solver 
 ---
@@ -743,7 +743,7 @@ A sudoku puzzle...
 
 ...and its solution numbers marked in red.
 
-==============================
+------------------------------
 
 Count and Say 
 ---
@@ -766,7 +766,7 @@ Given an integer n, generate the nth sequence.
 Note: The sequence of integers will be represented as a string.
 
 
-==============================
+------------------------------
 
 Combination Sum 
 ---
@@ -795,7 +795,7 @@ A solution set is:
 ]
 
 
-==============================
+------------------------------
 
 Combination Sum II 
 ---
@@ -825,7 +825,7 @@ A solution set is:
 ]
 
 
-==============================
+------------------------------
 
 First Missing Positive 
 ---
@@ -843,7 +843,7 @@ and [3,4,-1,1] return 2.
 
 Your algorithm should run in O(n) time and uses constant space.
 
-==============================
+------------------------------
 
 Trapping Rain Water 
 ---
@@ -860,7 +860,7 @@ Given [0,1,0,2,1,0,1,3,2,1,2,1], return 6.
 
 
 The above elevation map is represented by array [0,1,0,2,1,0,1,3,2,1,2,1]. In this case, 6 units of rain water (blue section) are being trapped. Thanks Marcos for contributing this image!
-==============================
+------------------------------
 
 Multiply Strings 
 ---
@@ -875,7 +875,7 @@ Both num1 and num2 does not contain any leading zero.
 You must not use any built-in BigInteger library or convert the inputs to integer directly.
 
 
-==============================
+------------------------------
 
 Wildcard Matching 
 ---
@@ -900,7 +900,7 @@ isMatch("aa", "a*") → true
 isMatch("ab", "?*") → true
 isMatch("aab", "c*a*b") → false
 
-==============================
+------------------------------
 
 Jump Game II 
 ---
@@ -926,7 +926,7 @@ The minimum number of jumps to reach the last index is 2. (Jump 1 step from inde
 
 Note:
 You can assume that you can always reach the last index.
-==============================
+------------------------------
 
 Permutations 
 ---
@@ -949,7 +949,7 @@ For example,
 ]
 
 
-==============================
+------------------------------
 
 Permutations II 
 ---
@@ -969,7 +969,7 @@ For example,
 ]
 
 
-==============================
+------------------------------
 
 Rotate Image 
 ---
@@ -978,7 +978,7 @@ You are given an n x n 2D matrix representing an image.
 Rotate the image by 90 degrees (clockwise).
 Follow up:
 Could you do this in-place?
-==============================
+------------------------------
 
 Group Anagrams 
 ---
@@ -996,14 +996,14 @@ Return:
 ]
 
 Note: All inputs will be in lower-case.
-==============================
+------------------------------
 
 Pow(x, n) 
 ---
 
 Implement pow(x, n).
 
-==============================
+------------------------------
 
 N-Queens 
 ---
@@ -1031,7 +1031,7 @@ There exist two distinct solutions to the 4-queens puzzle:
   ".Q.."]
 ]
 
-==============================
+------------------------------
 
 N-Queens II 
 ---
@@ -1041,7 +1041,7 @@ Follow up for N-Queens problem.
 Now, instead outputting board configurations, return the total number of distinct solutions.
 
 
-==============================
+------------------------------
 
 Maximum Subarray 
 ---
@@ -1060,7 +1060,7 @@ More practice:
 
 If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 
-==============================
+------------------------------
 
 Spiral Matrix 
 ---
@@ -1082,7 +1082,7 @@ Given the following matrix:
 
 You should return [1,2,3,6,9,8,7,4,5].
 
-==============================
+------------------------------
 
 Jump Game 
 ---
@@ -1104,7 +1104,7 @@ A = [2,3,1,1,4], return true.
 
 A = [3,2,1,0,4], return false.
 
-==============================
+------------------------------
 
 Merge Intervals 
 ---
@@ -1116,7 +1116,7 @@ For example,
 Given [1,3],[2,6],[8,10],[15,18],
 return [1,6],[8,10],[15,18].
 
-==============================
+------------------------------
 
 Insert Interval 
 ---
@@ -1138,7 +1138,7 @@ Given [1,2],[3,5],[6,7],[8,10],[12,16], insert and merge [4,9] in as [1,2],[3,10
 
 This is because the new interval [4,9] overlaps with [3,5],[6,7],[8,10].
 
-==============================
+------------------------------
 
 Length of Last Word 
 ---
@@ -1154,7 +1154,7 @@ For example,
 Given s = "Hello World",
 return 5.
 
-==============================
+------------------------------
 
 Spiral Matrix II 
 ---
@@ -1173,7 +1173,7 @@ You should return the following matrix:
  [ 7, 6, 5 ]
 ]
 
-==============================
+------------------------------
 
 Permutation Sequence 
 ---
@@ -1195,7 +1195,7 @@ We get the following sequence (ie, for n = 3):
 Given n and k, return the kth permutation sequence.
 
 Note: Given n will be between 1 and 9 inclusive.
-==============================
+------------------------------
 
 Rotate List 
 ---
@@ -1205,7 +1205,7 @@ Given a list, rotate the list to the right by k places, where k is non-negative.
 For example:
 Given 1->2->3->4->5->NULL and k = 2,
 return 4->5->1->2->3->NULL.
-==============================
+------------------------------
 
 Unique Paths 
 ---
@@ -1222,7 +1222,7 @@ Above is a 3 x 7 grid. How many possible unique paths are there?
 
 
 Note: m and n will be at most 100.
-==============================
+------------------------------
 
 Unique Paths II 
 ---
@@ -1245,7 +1245,7 @@ There is one obstacle in the middle of a 3x3 grid as illustrated below.
 The total number of unique paths is 2.
 
 Note: m and n will be at most 100.
-==============================
+------------------------------
 
 Minimum Path Sum 
 ---
@@ -1253,7 +1253,7 @@ Minimum Path Sum
 Given a m x n grid filled with non-negative numbers, find a path from top left to bottom right which minimizes the sum of all numbers along its path.
 
 Note: You can only move either down or right at any point in time.
-==============================
+------------------------------
 
 Valid Number 
 ---
@@ -1276,7 +1276,7 @@ Note: It is intended for the problem statement to be ambiguous. You should gathe
 Update (2015-02-10):
 The signature of the C++ function had been updated. If you still see your function signature accepts a const char * argument, please click the reload button  to reset your code definition.
 
-==============================
+------------------------------
 
 Plus One 
 ---
@@ -1286,7 +1286,7 @@ Given a non-negative integer represented as a non-empty array of digits, plus on
 You may assume the integer do not contain any leading zero, except the number 0 itself.
 
 The digits are stored such that the most significant digit is at the head of the list.
-==============================
+------------------------------
 
 Add Binary 
 ---
@@ -1301,7 +1301,7 @@ a = "11"
 b = "1"
 Return "100".
 
-==============================
+------------------------------
 
 Text Justification 
 ---
@@ -1353,7 +1353,7 @@ A line other than the last line might contain only one word. What should you do 
 In this case, that line should be left-justified.
 
 
-==============================
+------------------------------
 
 Sqrt(x) 
 ---
@@ -1361,7 +1361,7 @@ Sqrt(x)
 Implement int sqrt(int x).
 
 Compute and return the square root of x.
-==============================
+------------------------------
 
 Climbing Stairs 
 ---
@@ -1373,7 +1373,7 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 
 Note: Given n will be a positive integer.
 
-==============================
+------------------------------
 
 Simplify Path 
 ---
@@ -1397,7 +1397,7 @@ Another corner case is the path might contain multiple slashes '/' together, suc
 In this case, you should ignore redundant slashes and return "/home/foo".
 
 
-==============================
+------------------------------
 
 Edit Distance 
 ---
@@ -1415,7 +1415,7 @@ a) Insert a character
 b) Delete a character
 c) Replace a character
 
-==============================
+------------------------------
 
 Set Matrix Zeroes 
 ---
@@ -1435,7 +1435,7 @@ A simple improvement uses O(m + n) space, but still not the best solution.
 Could you devise a constant space solution?
 
 
-==============================
+------------------------------
 
 Search a 2D Matrix 
 ---
@@ -1463,7 +1463,7 @@ Consider the following matrix:
 
 
 Given target = 3, return true.
-==============================
+------------------------------
 
 Sort Colors 
 ---
@@ -1490,7 +1490,7 @@ First, iterate the array counting number of 0's, 1's, and 2's, then overwrite ar
 Could you come up with an one-pass algorithm using only constant space?
 
 
-==============================
+------------------------------
 
 Minimum Window Substring 
 ---
@@ -1515,7 +1515,7 @@ If there is no such window in S that covers all characters in T, return the empt
 
 If there are multiple such windows, you are guaranteed that there will always be only one unique minimum window in S.
 
-==============================
+------------------------------
 
 Combinations 
 ---
@@ -1538,7 +1538,7 @@ If n = 4 and k = 2, a solution is:
   [1,4],
 ]
 
-==============================
+------------------------------
 
 Subsets 
 ---
@@ -1565,7 +1565,7 @@ If nums = [1,2,3], a solution is:
   []
 ]
 
-==============================
+------------------------------
 
 Word Search 
 ---
@@ -1592,7 +1592,7 @@ word = "ABCCED", -> returns true,
 word = "SEE", -> returns true,
 word = "ABCB", -> returns false.
 
-==============================
+------------------------------
 
 Remove Duplicates from Sorted Array II 
 ---
@@ -1608,7 +1608,7 @@ Given sorted array nums = [1,1,1,2,2,3],
 
 Your function should return length = 5, with the first five elements of nums being 1, 1, 2, 2 and 3. It doesn't matter what you leave beyond the new length.
 
-==============================
+------------------------------
 
 Search in Rotated Sorted Array II 
 ---
@@ -1627,7 +1627,7 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 Write a function to determine if a given target is in the array.
 
 The array may contain duplicates.
-==============================
+------------------------------
 
 Remove Duplicates from Sorted List II 
 ---
@@ -1640,7 +1640,7 @@ For example,
 Given 1->2->3->3->4->4->5, return 1->2->5.
 Given 1->1->1->2->3, return 2->3.
 
-==============================
+------------------------------
 
 Remove Duplicates from Sorted List 
 ---
@@ -1653,7 +1653,7 @@ For example,
 Given 1->1->2, return 1->2.
 Given 1->1->2->3->3, return 1->2->3.
 
-==============================
+------------------------------
 
 Largest Rectangle in Histogram 
 ---
@@ -1677,7 +1677,7 @@ For example,
 Given heights = [2,1,5,6,2,3],
 return 10.
 
-==============================
+------------------------------
 
 Maximal Rectangle 
 ---
@@ -1695,7 +1695,7 @@ For example, given the following matrix:
 
 Return 6.
 
-==============================
+------------------------------
 
 Partition List 
 ---
@@ -1710,7 +1710,7 @@ For example,
 Given 1->4->3->2->5->2 and x = 3,
 return 1->2->2->4->3->5.
 
-==============================
+------------------------------
 
 Scramble String 
 ---
@@ -1766,7 +1766,7 @@ We say that "rgtae" is a scrambled string of "great".
 
 Given two strings s1 and s2 of the same length, determine if s2 is a scrambled string of s1.
 
-==============================
+------------------------------
 
 Merge Sorted Array 
 ---
@@ -1776,7 +1776,7 @@ Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one s
 
 Note:
 You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2. The number of elements initialized in nums1 and nums2 are m and n respectively.
-==============================
+------------------------------
 
 Gray Code 
 ---
@@ -1799,7 +1799,7 @@ For a given n, a gray code sequence is not uniquely defined.
 For example, [0,2,3,1] is also a valid gray code sequence according to the above definition.
 
 For now, the judge is able to judge based on one instance of gray code sequence. Sorry about that.
-==============================
+------------------------------
 
 Subsets II 
 ---
@@ -1824,7 +1824,7 @@ If nums = [1,2,2], a solution is:
   []
 ]
 
-==============================
+------------------------------
 
 Decode Ways 
 ---
@@ -1853,7 +1853,7 @@ it could be decoded as "AB" (1 2) or "L" (12).
 
 The number of ways decoding "12" is 2.
 
-==============================
+------------------------------
 
 Reverse Linked List II 
 ---
@@ -1874,7 +1874,7 @@ Note:
 Given m, n satisfy the following condition:
 1 ≤ m ≤ n ≤ length of list.
 
-==============================
+------------------------------
 
 Restore IP Addresses 
 ---
@@ -1888,7 +1888,7 @@ Given "25525511135",
 
 return ["255.255.11.135", "255.255.111.35"]. (Order does not matter)
 
-==============================
+------------------------------
 
 Binary Tree Inorder Traversal 
 ---
@@ -1911,7 +1911,7 @@ return [1,3,2].
 
 
 Note: Recursive solution is trivial, could you do it iteratively?
-==============================
+------------------------------
 
 Unique Binary Search Trees II 
 ---
@@ -1930,7 +1930,7 @@ Given n = 3, your program should return all 5 unique BST's shown below.
    2     1         2                 3
 
 
-==============================
+------------------------------
 
 Unique Binary Search Trees 
 ---
@@ -1949,7 +1949,7 @@ Given n = 3, there are a total of 5 unique BST's.
    2     1         2                 3
 
 
-==============================
+------------------------------
 
 Interleaving String 
 ---
@@ -1968,7 +1968,7 @@ s2 = "dbbca",
 When s3 = "aadbbcbcac", return true.
 When s3 = "aadbbbaccc", return false.
 
-==============================
+------------------------------
 
 Validate Binary Search Tree 
 ---
@@ -2003,7 +2003,7 @@ Example 2:
 
 Binary tree [1,2,3], return false.
 
-==============================
+------------------------------
 
 Recover Binary Search Tree 
 ---
@@ -2017,7 +2017,7 @@ Recover the tree without changing its structure.
 Note:
 A solution using O(n) space is pretty straight forward. Could you devise a constant space solution?
 
-==============================
+------------------------------
 
 Same Tree 
 ---
@@ -2028,7 +2028,7 @@ Given two binary trees, write a function to check if they are equal or not.
 
 Two binary trees are considered equal if they are structurally identical and the nodes have the same value.
 
-==============================
+------------------------------
 
 Symmetric Tree 
 ---
@@ -2060,7 +2060,7 @@ But the following [1,2,2,null,3,null,3]  is not:
 Note:
 Bonus points if you could solve it both recursively and iteratively.
 
-==============================
+------------------------------
 
 Binary Tree Level Order Traversal 
 ---
@@ -2088,7 +2088,7 @@ return its level order traversal as:
 ]
 
 
-==============================
+------------------------------
 
 Binary Tree Zigzag Level Order Traversal 
 ---
@@ -2116,7 +2116,7 @@ return its zigzag level order traversal as:
 ]
 
 
-==============================
+------------------------------
 
 Maximum Depth of Binary Tree 
 ---
@@ -2124,7 +2124,7 @@ Maximum Depth of Binary Tree
 Given a binary tree, find its maximum depth.
 
 The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
-==============================
+------------------------------
 
 Construct Binary Tree from Preorder and Inorder Traversal 
 ---
@@ -2134,7 +2134,7 @@ Given preorder and inorder traversal of a tree, construct the binary tree.
 Note:
 You may assume that duplicates do not exist in the tree.
 
-==============================
+------------------------------
 
 Construct Binary Tree from Inorder and Postorder Traversal 
 ---
@@ -2144,7 +2144,7 @@ Given inorder and postorder traversal of a tree, construct the binary tree.
 Note:
 You may assume that duplicates do not exist in the tree.
 
-==============================
+------------------------------
 
 Binary Tree Level Order Traversal II 
 ---
@@ -2172,19 +2172,19 @@ return its bottom-up level order traversal as:
 ]
 
 
-==============================
+------------------------------
 
 Convert Sorted Array to Binary Search Tree 
 ---
 
 Given an array where elements are sorted in ascending order, convert it to a height balanced BST.
-==============================
+------------------------------
 
 Convert Sorted List to Binary Search Tree 
 ---
 
 Given a singly linked list where elements are sorted in ascending order, convert it to a height balanced BST.
-==============================
+------------------------------
 
 Balanced Binary Tree 
 ---
@@ -2195,7 +2195,7 @@ Given a binary tree, determine if it is height-balanced.
 
 For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
 
-==============================
+------------------------------
 
 Minimum Depth of Binary Tree 
 ---
@@ -2203,7 +2203,7 @@ Minimum Depth of Binary Tree
 Given a binary tree, find its minimum depth.
 
 The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
-==============================
+------------------------------
 
 Path Sum 
 ---
@@ -2226,7 +2226,7 @@ Given the below binary tree and sum = 22,
 
 
 return true, as there exist a root-to-leaf path 5->4->11->2 which sum is 22.
-==============================
+------------------------------
 
 Path Sum II 
 ---
@@ -2256,7 +2256,7 @@ return
 ]
 
 
-==============================
+------------------------------
 
 Flatten Binary Tree to Linked List 
 ---
@@ -2297,7 +2297,7 @@ click to show hints.
 Hints:
 If you notice carefully in the flattened tree, each node's right child points to the next node of a pre-order traversal.
 
-==============================
+------------------------------
 
 Distinct Subsequences 
 ---
@@ -2317,7 +2317,7 @@ S = "rabbbit", T = "rabbit"
 
 Return 3.
 
-==============================
+------------------------------
 
 Populating Next Right Pointers in Each Node 
 ---
@@ -2366,7 +2366,7 @@ After calling your function, the tree should look like:
     4->5->6->7 -> NULL
 
 
-==============================
+------------------------------
 
 Populating Next Right Pointers in Each Node II 
 ---
@@ -2398,7 +2398,7 @@ After calling your function, the tree should look like:
     4-> 5 -> 7 -> NULL
 
 
-==============================
+------------------------------
 
 Pascal's Triangle 
 ---
@@ -2418,7 +2418,7 @@ Return
 ]
 
 
-==============================
+------------------------------
 
 Pascal's Triangle II 
 ---
@@ -2434,7 +2434,7 @@ Return [1,3,3,1].
 Note:
 Could you optimize your algorithm to use only O(k) extra space?
 
-==============================
+------------------------------
 
 Triangle 
 ---
@@ -2460,7 +2460,7 @@ The minimum path sum from top to bottom is 11 (i.e., 2 + 3 + 5 + 1 = 11).
 Note:
 Bonus point if you are able to do this using only O(n) extra space, where n is the total number of rows in the triangle.
 
-==============================
+------------------------------
 
 Best Time to Buy and Sell Stock 
 ---
@@ -2486,7 +2486,7 @@ Output: 0
 In this case, no transaction is done, i.e. max profit = 0.
 
 
-==============================
+------------------------------
 
 Best Time to Buy and Sell Stock II 
 ---
@@ -2494,7 +2494,7 @@ Best Time to Buy and Sell Stock II
 Say you have an array for which the ith element is the price of a given stock on day i.
 
 Design an algorithm to find the maximum profit. You may complete as many transactions as you like (ie, buy one and sell one share of the stock multiple times). However, you may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).
-==============================
+------------------------------
 
 Best Time to Buy and Sell Stock III 
 ---
@@ -2505,7 +2505,7 @@ Design an algorithm to find the maximum profit. You may complete at most two tra
 
 Note:
 You may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).
-==============================
+------------------------------
 
 Binary Tree Maximum Path Sum 
 ---
@@ -2528,7 +2528,7 @@ Given the below binary tree,
 
 Return 6.
 
-==============================
+------------------------------
 
 Valid Palindrome 
 ---
@@ -2549,7 +2549,7 @@ Have you consider that the string might be empty? This is a good question to ask
 
 For the purpose of this problem, we define empty string as valid palindrome.
 
-==============================
+------------------------------
 
 Word Ladder II 
 ---
@@ -2596,7 +2596,7 @@ You may assume beginWord and endWord are non-empty and are not the same.
 UPDATE (2017/1/20):
 The wordList parameter had been changed to a list of strings (instead of a set of strings). Please reload the code definition to get the latest changes.
 
-==============================
+------------------------------
 
 Word Ladder 
 ---
@@ -2638,7 +2638,7 @@ You may assume beginWord and endWord are non-empty and are not the same.
 UPDATE (2017/1/20):
 The wordList parameter had been changed to a list of strings (instead of a set of strings). Please reload the code definition to get the latest changes.
 
-==============================
+------------------------------
 
 Longest Consecutive Sequence 
 ---
@@ -2654,7 +2654,7 @@ The longest consecutive elements sequence is [1, 2, 3, 4]. Return its length: 4.
 
 Your algorithm should run in O(n) complexity.
 
-==============================
+------------------------------
 
 Sum Root to Leaf Numbers 
 ---
@@ -2678,7 +2678,7 @@ The root-to-leaf path 1->3 represents the number 13.
 
 Return the sum = 12 + 13 = 25.
 
-==============================
+------------------------------
 
 Surrounded Regions 
 ---
@@ -2708,7 +2708,7 @@ X X X X
 X O X X
 
 
-==============================
+------------------------------
 
 Palindrome Partitioning 
 ---
@@ -2730,7 +2730,7 @@ Return
 ]
 
 
-==============================
+------------------------------
 
 Palindrome Partitioning II 
 ---
@@ -2745,7 +2745,7 @@ Return the minimum cuts needed for a palindrome partitioning of s.
 For example, given s = "aab",
 Return 1 since the palindrome partitioning ["aa","b"] could be produced using 1 cut.
 
-==============================
+------------------------------
 
 Clone Graph 
 ---
@@ -2792,7 +2792,7 @@ Visually, the graph looks like the following:
 
 
 
-==============================
+------------------------------
 
 Gas Station 
 ---
@@ -2813,7 +2813,7 @@ Return the starting gas station's index if you can travel around the circuit onc
 Note:
 The solution is guaranteed to be unique.
 
-==============================
+------------------------------
 
 Candy 
 ---
@@ -2831,7 +2831,7 @@ Children with a higher rating get more candies than their neighbors.
 
 What is the minimum candies you must give?
 
-==============================
+------------------------------
 
 Single Number 
 ---
@@ -2842,7 +2842,7 @@ Given an array of integers, every element appears twice except for one. Find tha
 Note:
 Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 
-==============================
+------------------------------
 
 Single Number II 
 ---
@@ -2855,7 +2855,7 @@ Given an array of integers, every element appears three times except for one, wh
 Note:
 Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 
-==============================
+------------------------------
 
 Copy List with Random Pointer 
 ---
@@ -2867,7 +2867,7 @@ A linked list is given such that each node contains an additional random pointer
 
 Return a deep copy of the list.
 
-==============================
+------------------------------
 
 Word Break 
 ---
@@ -2889,7 +2889,7 @@ Return true because "leetcode" can be segmented as "leet code".
 UPDATE (2017/1/4):
 The wordDict parameter had been changed to a list of strings (instead of a set of strings). Please reload the code definition to get the latest changes.
 
-==============================
+------------------------------
 
 Word Break II 
 ---
@@ -2916,7 +2916,7 @@ A solution is ["cats and dog", "cat sand dog"].
 UPDATE (2017/1/4):
 The wordDict parameter had been changed to a list of strings (instead of a set of strings). Please reload the code definition to get the latest changes.
 
-==============================
+------------------------------
 
 Linked List Cycle 
 ---
@@ -2929,7 +2929,7 @@ Given a linked list, determine if it has a cycle in it.
 Follow up:
 Can you solve it without using extra space?
 
-==============================
+------------------------------
 
 Linked List Cycle II 
 ---
@@ -2945,7 +2945,7 @@ Note: Do not modify the linked list.
 Follow up:
 Can you solve it without using extra space?
 
-==============================
+------------------------------
 
 Reorder List 
 ---
@@ -2961,7 +2961,7 @@ You must do this in-place without altering the nodes' values.
 For example,
 Given {1,2,3,4}, reorder it to {1,4,2,3}.
 
-==============================
+------------------------------
 
 Binary Tree Preorder Traversal 
 ---
@@ -2984,7 +2984,7 @@ return [1,2,3].
 
 
 Note: Recursive solution is trivial, could you do it iteratively?
-==============================
+------------------------------
 
 Binary Tree Postorder Traversal 
 ---
@@ -3007,7 +3007,7 @@ return [3,2,1].
 
 
 Note: Recursive solution is trivial, could you do it iteratively?
-==============================
+------------------------------
 
 LRU Cache 
 ---
@@ -3039,25 +3039,25 @@ cache.get(3);       // returns 3
 cache.get(4);       // returns 4
 
 
-==============================
+------------------------------
 
 Insertion Sort List 
 ---
 
 Sort a linked list using insertion sort.
-==============================
+------------------------------
 
 Sort List 
 ---
 
 Sort a linked list in O(n log n) time using constant space complexity.
-==============================
+------------------------------
 
 Max Points on a Line 
 ---
 
 Given n points on a 2D plane, find the maximum number of points that lie on the same straight line.
-==============================
+------------------------------
 
 Evaluate Reverse Polish Notation 
 ---
@@ -3077,7 +3077,7 @@ Some examples:
   ["4", "13", "5", "/", "+"] -> (4 + (13 / 5)) -> 6
 
 
-==============================
+------------------------------
 
 Reverse Words in a String 
 ---
@@ -3112,7 +3112,7 @@ Reduce them to a single space in the reversed string.
 
 
 
-==============================
+------------------------------
 
 Maximum Product Subarray 
 ---
@@ -3125,7 +3125,7 @@ Find the contiguous subarray within an array (containing at least one number) wh
 For example, given the array [2,3,-2,4],
 the contiguous subarray [2,3] has the largest product = 6.
 
-==============================
+------------------------------
 
 Find Minimum in Rotated Sorted Array 
 ---
@@ -3137,7 +3137,7 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 Find the minimum element.
 
 You may assume no duplicate exists in the array.
-==============================
+------------------------------
 
 Find Minimum in Rotated Sorted Array II 
 ---
@@ -3156,7 +3156,7 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 Find the minimum element.
 
 The array may contain duplicates.
-==============================
+------------------------------
 
 Min Stack 
 ---
@@ -3191,11 +3191,11 @@ minStack.top();      --> Returns 0.
 minStack.getMin();   --> Returns -2.
 
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 Intersection of Two Linked Lists 
 ---
@@ -3222,7 +3222,7 @@ Your code should preferably run in O(n) time and use only O(1) memory.
 
 
 Credits:Special thanks to @stellari for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -3246,7 +3246,7 @@ Your solution should be in logarithmic complexity.
 
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -3262,7 +3262,7 @@ Return 0 if the array contains less than 2 elements.
 You may assume all elements in the array are non-negative integers and fit in the 32-bit signed integer range.
 
 Credits:Special thanks to @porker2008 for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Compare Version Numbers 
 ---
@@ -3278,7 +3278,7 @@ Here is an example of version numbers ordering:
 0.1 &lt; 1.1 &lt; 1.2 &lt; 13.37
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Fraction to Recurring Decimal 
 ---
@@ -3302,7 +3302,7 @@ Given numerator = 2, denominator = 3, return "0.(6)".
 
 
 Credits:Special thanks to @Shangrila for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Two Sum II - Input array is sorted 
 ---
@@ -3317,7 +3317,7 @@ You may assume that each input would have exactly one solution and you may not u
 Input: numbers={2, 7, 11, 15}, target=9
 Output: index1=1, index2=2
 
-==============================
+------------------------------
 
 Excel Sheet Column Title 
 ---
@@ -3335,7 +3335,7 @@ For example:
     28 -> AB 
 
 Credits:Special thanks to @ifanchu for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Majority Element 
 ---
@@ -3345,7 +3345,7 @@ Given an array of size n, find the majority element. The majority element is the
 You may assume that the array is non-empty and the majority element always exist in the array.
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -3365,7 +3365,7 @@ For example:
     AB -&gt; 28 
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Factorial Trailing Zeroes 
 ---
@@ -3375,7 +3375,7 @@ Given an integer n, return the number of trailing zeroes in n!.
 Note: Your solution should be in logarithmic time complexity.
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Binary Search Tree Iterator 
 ---
@@ -3387,7 +3387,7 @@ Calling next() will return the next smallest number in the BST.
 Note: next() and hasNext() should run in average O(1) time and uses O(h) memory, where h is the height of the tree. 
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Dungeon Game 
 ---
@@ -3442,7 +3442,7 @@ Any room can contain threats or power-ups, even the first room the knight enters
 
 
 Credits:Special thanks to @stellari for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Largest Number 
 ---
@@ -3454,7 +3454,7 @@ For example, given [3, 30, 34, 5, 9], the largest formed number is 9534330.
 Note: The result may be very large, so you need to return a string instead of an integer.
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -3474,7 +3474,7 @@ Given s = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT",
 Return:
 ["AAAAACCCCC", "CCCCCAAAAA"].
 
-==============================
+------------------------------
 
 Best Time to Buy and Sell Stock IV 
 ---
@@ -3487,7 +3487,7 @@ Note:
 You may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).
 
 Credits:Special thanks to @Freezen for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Rotate Array 
 ---
@@ -3507,7 +3507,7 @@ Could you do it in-place with O(1) extra space?
 Related problem: Reverse Words in a String II
 
 Credits:Special thanks to @Freezen for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Reverse Bits 
 ---
@@ -3524,7 +3524,7 @@ If this function is called many times, how would you optimize it?
 Related problem: Reverse Integer
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Number of 1 Bits 
 ---
@@ -3534,7 +3534,7 @@ Write a function that takes an unsigned integer and returns the number of ’1' 
 For example, the 32-bit integer ’11' has binary representation 00000000000000000000000000001011, so the function should return 3.
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 House Robber 
 ---
@@ -3544,7 +3544,7 @@ You are a professional robber planning to rob houses along a street. Each house 
 Given a list of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight without alerting the police.
 
 Credits:Special thanks to @ifanchu for adding this problem and creating all test cases. Also thanks to @ts for adding additional test cases.
-==============================
+------------------------------
 
 Binary Tree Right Side View 
 ---
@@ -3567,7 +3567,7 @@ You should return [1, 3, 4].
 
 
 Credits:Special thanks to @amrsaqr for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Number of Islands 
 ---
@@ -3582,7 +3582,7 @@ Example 2:
 Answer: 3
 
 Credits:Special thanks to @mithmatt for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Bitwise AND of Numbers Range 
 ---
@@ -3594,7 +3594,7 @@ For example, given the range [5, 7], you should return 4.
 
 
 Credits:Special thanks to @amrsaqr for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Happy Number 
 ---
@@ -3613,7 +3613,7 @@ Example:&nbsp;19 is a happy number
 
 
 Credits:Special thanks to @mithmatt and @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Remove Linked List Elements 
 ---
@@ -3626,7 +3626,7 @@ Return: 1 --> 2 --> 3 --> 4 --> 5
 
 
 Credits:Special thanks to @mithmatt for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Count Primes 
 ---
@@ -3715,7 +3715,7 @@ public int countPrimes(int n) {
 
   
 
-==============================
+------------------------------
 
 Isomorphic Strings 
 ---
@@ -3735,7 +3735,7 @@ Given "paper", "title", return true.
 
 Note:
 You may assume both s and t have the same length.
-==============================
+------------------------------
 
 Reverse Linked List 
 ---
@@ -3747,7 +3747,7 @@ click to show more hints.
 Hint:
 A linked list can be reversed either iteratively or recursively. Could you implement both?
 
-==============================
+------------------------------
 
 Course Schedule 
 ---
@@ -3784,7 +3784,7 @@ Topological Sort via DFS - A great video tutorial (21 minutes) on Coursera expla
 Topological sort could also be done via BFS.
 
 
-==============================
+------------------------------
 
 Implement Trie (Prefix Tree) 
 ---
@@ -3797,7 +3797,7 @@ Implement a trie with insert, search, and startsWith methods.
 Note:
 You may assume that all inputs are consist of lowercase letters a-z.
 
-==============================
+------------------------------
 
 Minimum Size Subarray Sum 
 ---
@@ -3818,7 +3818,7 @@ If you have figured out the O(n) solution, try coding another solution of which 
 
 
 Credits:Special thanks to @Freezen for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Course Schedule II 
 ---
@@ -3857,7 +3857,7 @@ Topological Sort via DFS - A great video tutorial (21 minutes) on Coursera expla
 Topological sort could also be done via BFS.
 
 
-==============================
+------------------------------
 
 Add and Search Word - Data structure design 
 ---
@@ -3894,7 +3894,7 @@ click to show hint.
 
 You should be familiar with how a Trie works. If not, please work on this problem: Implement Trie (Prefix Tree) first.
 
-==============================
+------------------------------
 
 Word Search II 
 ---
@@ -3932,7 +3932,7 @@ You would need to optimize your backtracking to pass the larger test. Could you 
 
 If the current candidate does not exist in all words' prefix, you could stop backtracking immediately. What kind of data structure could answer such query efficiently? Does a hash table work? Why or why not? How about a Trie? If you would like to learn how to implement a basic trie, please work on this problem: Implement Trie (Prefix Tree) first.
 
-==============================
+------------------------------
 
 House Robber II 
 ---
@@ -3944,7 +3944,7 @@ After robbing those houses on that street, the thief has found himself a new pla
 Given a list of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight without alerting the police.
 
 Credits:Special thanks to @Freezen for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Shortest Palindrome 
 ---
@@ -3958,7 +3958,7 @@ Given "aacecaaa", return "aaacecaaa".
 Given "abcd", return "dcbabcd".
 
 Credits:Special thanks to @ifanchu for adding this problem and creating all test cases. Thanks to @Freezen for additional test cases.
-==============================
+------------------------------
 
 Kth Largest Element in an Array 
 ---
@@ -3973,7 +3973,7 @@ Note:
 You may assume k is always valid, 1 ≤ k ≤ array's length.
 
 Credits:Special thanks to @mithmatt for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Combination Sum III 
 ---
@@ -3999,7 +3999,7 @@ Output:
 
 
 Credits:Special thanks to @mithmatt for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Contains Duplicate 
 ---
@@ -4007,7 +4007,7 @@ Contains Duplicate
 
 Given an array of integers, find if the array contains any duplicates. Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
 
-==============================
+------------------------------
 
 The Skyline Problem 
 ---
@@ -4045,7 +4045,7 @@ Notes:
 
 
 Credits:Special thanks to @stellari for adding this problem, creating these two awesome images and all test cases.
-==============================
+------------------------------
 
 Contains Duplicate II 
 ---
@@ -4053,7 +4053,7 @@ Contains Duplicate II
 
 Given an array of integers and an integer k, find out whether there are two distinct indices i and j in the array such that nums[i] = nums[j] and the absolute difference between i and j is at most k.
 
-==============================
+------------------------------
 
 Contains Duplicate III 
 ---
@@ -4061,7 +4061,7 @@ Contains Duplicate III
 
 Given an array of integers, find out whether there are two distinct indices i and j in the array such that the absolute difference between nums[i] and nums[j] is at most t and the absolute difference between i and j is at most k.
 
-==============================
+------------------------------
 
 Maximal Square 
 ---
@@ -4081,7 +4081,7 @@ Return 4.
 
 
 Credits:Special thanks to @Freezen for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Count Complete Tree Nodes 
 ---
@@ -4090,7 +4090,7 @@ Given a complete binary tree, count the number of nodes.
 
 Definition of a complete binary tree from Wikipedia:
 In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2h nodes inclusive at the last level h.
-==============================
+------------------------------
 
 Rectangle Area 
 ---
@@ -4105,7 +4105,7 @@ Assume that the total area is never beyond the maximum possible value of int.
 
 
 Credits:Special thanks to @mithmatt for adding this problem, creating the above image and all test cases.
-==============================
+------------------------------
 
 Basic Calculator 
 ---
@@ -4127,7 +4127,7 @@ Some examples:
 
 Note: Do not use the eval built-in library function.
 
-==============================
+------------------------------
 
 Implement Stack using Queues 
 ---
@@ -4157,7 +4157,7 @@ You may assume that all operations are valid (for example, no pop or top operati
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and all test cases.
-==============================
+------------------------------
 
 Invert Binary Tree 
 ---
@@ -4179,7 +4179,7 @@ to
 Trivia:
 This problem was inspired by this original tweet by Max Howell:
 Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off.
-==============================
+------------------------------
 
 Basic Calculator II 
 ---
@@ -4203,7 +4203,7 @@ Note: Do not use the eval built-in library function.
 
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Summary Ranges 
 ---
@@ -4216,7 +4216,7 @@ For example, given [0,1,2,4,5,7], return ["0->2","4->5","7"].
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Majority Element II 
 ---
@@ -4227,7 +4227,7 @@ Given an integer array of size n, find all elements that appear more than &lfloo
   How many majority elements could it possibly have?
   Do you have a better hint? Suggest it!
 
-==============================
+------------------------------
 
 Kth Smallest Element in a BST 
 ---
@@ -4247,7 +4247,7 @@ What if the BST is modified (insert/delete operations) often and you need to fin
 
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Power of Two 
 ---
@@ -4257,7 +4257,7 @@ Given an integer, write a function to determine if it is a power of two.
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Implement Queue using Stacks 
 ---
@@ -4285,7 +4285,7 @@ Depending on your language, stack may not be supported natively. You may simulat
 You may assume that all operations are valid (for example, no pop or peek operations will be called on an empty queue).
 
 
-==============================
+------------------------------
 
 Number of Digit One 
 ---
@@ -4301,7 +4301,7 @@ Return 6, because digit 1 occurred in the following numbers: 1, 10, 11, 12, 13.
 
   Beware of overflow.
 
-==============================
+------------------------------
 
 Palindrome Linked List 
 ---
@@ -4310,7 +4310,7 @@ Given a singly linked list, determine if it is a palindrome.
 
 Follow up:
 Could you do it in O(n) time and O(1) space?
-==============================
+------------------------------
 
 Lowest Common Ancestor of a Binary Search Tree 
 ---
@@ -4335,7 +4335,7 @@ According to the definition of LCA on Wikipedia: “The lowest common ancestor i
 
 
 For example, the lowest common ancestor (LCA) of nodes 2 and 8 is 6. Another example is LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.
-==============================
+------------------------------
 
 Lowest Common Ancestor of a Binary Tree 
 ---
@@ -4360,7 +4360,7 @@ According to the definition of LCA on Wikipedia: “The lowest common ancestor i
 
 
 For example, the lowest common ancestor (LCA) of nodes 5 and 1 is 3. Another example is LCA of nodes 5 and 4 is 5, since a node can be a descendant of itself according to the LCA definition.
-==============================
+------------------------------
 
 Delete Node in a Linked List 
 ---
@@ -4372,7 +4372,7 @@ Write a function to delete a node (except the tail) in a singly linked list, giv
 
 Supposed the linked list is 1 -> 2 -> 3 -> 4 and you are given the third node with value 3, the linked list should become 1 -> 2 -> 4 after calling your function.
 
-==============================
+------------------------------
 
 Product of Array Except Self 
 ---
@@ -4386,7 +4386,7 @@ For example, given [1,2,3,4], return [24,12,8,6].
 
 Follow up:
 Could you solve it with constant space complexity? (Note: The output array does not count as extra space for the purpose of space complexity analysis.)
-==============================
+------------------------------
 
 Sliding Window Maximum 
 ---
@@ -4420,7 +4420,7 @@ Could you solve it in linear time?
   The queue size need not be the same as the window’s size.
   Remove redundant elements and the queue should store only elements that need to be considered.
 
-==============================
+------------------------------
 
 Search a 2D Matrix II 
 ---
@@ -4451,7 +4451,7 @@ Consider the following matrix:
 
 Given target = 5, return true.
 Given target = 20, return false.
-==============================
+------------------------------
 
 Different Ways to Add Parentheses 
 ---
@@ -4474,7 +4474,7 @@ Input: "2*3-4*5"
 Output: [-34, -14, -10, -10, 10] 
 
 Credits:Special thanks to @mithmatt for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Valid Anagram 
 ---
@@ -4491,21 +4491,21 @@ You may assume the string contains only lowercase alphabets.
 
 Follow up:
 What if the inputs contain unicode characters? How would you adapt your solution to such case?
-==============================
+------------------------------
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 Binary Tree Paths 
 ---
@@ -4531,7 +4531,7 @@ All root-to-leaf paths are:
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Add Digits 
 ---
@@ -4559,7 +4559,7 @@ Could you do it without any loop/recursion in O(1) runtime?
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -4584,7 +4584,7 @@ Your algorithm should run in linear runtime complexity. Could you implement it u
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -4604,7 +4604,7 @@ Note that 1 is typically treated as an ugly number.
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Ugly Number II 
 ---
@@ -4629,9 +4629,9 @@ Note that 1 is typically treated as an ugly number, and n does not exceed 1690.
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 ---
 
@@ -4652,9 +4652,9 @@ Your algorithm should run in linear runtime complexity. Could you implement it u
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 ---
 
@@ -4676,7 +4676,7 @@ For example,
   Group the number by thousands (3 digits). You can write a helper function that takes a number less than 1000 and convert just that chunk to words.
   There are many edge cases. What are some good test cases? Does your code work with input such as 0? Or 1000010? (middle chunk is zero and should not be printed out)
 
-==============================
+------------------------------
 
 H-Index 
 ---
@@ -4704,7 +4704,7 @@ Note: If there are several possible values for h, the maximum one is taken as th
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 H-Index II 
 ---
@@ -4716,9 +4716,9 @@ Follow up for H-Index: What if the citations array is sorted in ascending order?
 
   Expected runtime complexity is in O(log n) and the input is sorted.
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 First Bad Version 
 ---
@@ -4736,7 +4736,7 @@ You are given an API bool isBadVersion(version) which will return whether versio
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Perfect Squares 
 ---
@@ -4750,9 +4750,9 @@ For example, given n = 12, return 3 because 12 = 4 + 4 + 4; given n = 13, return
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 Expression Add Operators 
 ---
@@ -4770,7 +4770,7 @@ Examples:
 
 
 Credits:Special thanks to @davidtan1890 for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Move Zeroes 
 ---
@@ -4792,7 +4792,7 @@ Minimize the total number of operations.
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Peeking Iterator 
 ---
@@ -4819,9 +4819,9 @@ You call next() the final time and it returns 3, the last element. Calling hasNe
 Follow up: How would you extend your design to be generic and work with all types, not just integer?
 
 Credits:Special thanks to @porker2008 for adding this problem and creating all test cases.
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 Find the Duplicate Number 
 ---
@@ -4841,7 +4841,7 @@ There is only one duplicate number in the array, but it could be repeated more t
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -4877,7 +4877,7 @@ In this question, we represent the board using a 2D array. In principle, the boa
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Word Pattern 
 ---
@@ -4900,7 +4900,7 @@ You may assume pattern contains only lowercase letters, and str contains lowerca
 
 
 Credits:Special thanks to @minglotus6 for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -4924,9 +4924,9 @@ For example, if there are 4 stones in the heap, then you will never win the game
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 Find Median from Data Stream 
 ---
@@ -4955,7 +4955,7 @@ findMedian() -> 2
 
 
 Credits:Special thanks to @Louis1992 for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -4983,7 +4983,7 @@ Note: Do not use class member/global/static variables to store states. Your seri
 
 
 Credits:Special thanks to @Louis1992 for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -5014,7 +5014,7 @@ In this case, the 1st 1 in friend's guess is a bull, the 2nd or 3rd 1 is a cow, 
 You may assume that the secret number and your friend's guess only contain digits, and their lengths are always equal.
 
 Credits:Special thanks to @jeantimex for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Longest Increasing Subsequence 
 ---
@@ -5034,7 +5034,7 @@ Your algorithm should run in O(n2) complexity.
 Follow up: Could you improve it to O(n log n) time complexity? 
 
 Credits:Special thanks to @pbrother for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Remove Invalid Parentheses 
 ---
@@ -5055,7 +5055,7 @@ Examples:
 
 
 Credits:Special thanks to @hpplayer for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -5080,7 +5080,7 @@ You may assume that the array does not change.
 There are many calls to sumRange function.
 
 
-==============================
+------------------------------
 
 Range Sum Query 2D - Immutable 
 ---
@@ -5115,7 +5115,7 @@ There are many calls to sumRegion function.
 You may assume that row1 &le; row2 and col1 &le; col2.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -5146,7 +5146,7 @@ How would you handle overflow for very large input integers?
 
 
 Credits:Special thanks to @jeantimex for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Range Sum Query - Mutable 
 ---
@@ -5171,7 +5171,7 @@ The array is only modifiable by the update function.
 You may assume the number of calls to update and sumRange function is distributed evenly.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -5247,7 +5247,7 @@ You can assume that no duplicate edges will appear in edges. Since all edges are
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -5288,7 +5288,7 @@ Burst Balloons
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Super Ugly Number 
 ---
@@ -5313,7 +5313,7 @@ Super Ugly Number
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -5340,7 +5340,7 @@ To the right of 1 there is 0 smaller element.
 
 Return the array [2, 1, 1, 0].
 
-==============================
+------------------------------
 
 Remove Duplicate Letters 
 ---
@@ -5362,7 +5362,7 @@ Return "acdb"
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -5401,7 +5401,7 @@ Maximum Product of Word Lengths
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Bulb Switcher 
 ---
@@ -5422,7 +5422,7 @@ After second round, the three bulbs are [on, off, on].
 After third round, the three bulbs are [on, off, off]. 
 So you should return 1, because there is only one bulb is on.
 
-==============================
+------------------------------
 
 ---
 
@@ -5464,7 +5464,7 @@ Create Maximum Number
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Coin Change 
 ---
@@ -5491,7 +5491,7 @@ You may assume that you have an infinite number of each kind of coin.
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -5520,7 +5520,7 @@ Wiggle Sort II
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -5536,7 +5536,7 @@ Power of Three
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Count of Range Sum 
 ---
@@ -5560,7 +5560,7 @@ Count of Range Sum
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Odd Even Linked List 
 ---
@@ -5581,7 +5581,7 @@ The first node is considered odd, the second node even and so on ...
 
 
 Credits:Special thanks to @DjangoUnchained for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Longest Increasing Path in a Matrix 
 ---
@@ -5624,7 +5624,7 @@ Return 4
 The longest increasing path is [3, 4, 5, 6]. Moving diagonally is not allowed.
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Patching Array 
 ---
@@ -5651,7 +5651,7 @@ nums = [1, 2, 2], n = 5
 Return 0.
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Verify Preorder Serialization of a Binary Tree 
 ---
@@ -5688,7 +5688,7 @@ Example 3:
 Return false
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Reconstruct Itinerary 
 ---
@@ -5717,7 +5717,7 @@ You may assume all tickets form at least one valid itinerary.
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -5748,7 +5748,7 @@ return false.
 
 
 Credits:Special thanks to @DjangoUnchained for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Self Crossing 
 ---
@@ -5803,7 +5803,7 @@ Return true (self crossing)
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Palindrome Pairs 
 ---
@@ -5826,7 +5826,7 @@ Palindrome Pairs
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 House Robber III 
 ---
@@ -5862,7 +5862,7 @@ Maximum amount of money the thief can rob = 4 + 5 = 9.
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Counting Bits 
 ---
@@ -5889,9 +5889,9 @@ Can you do it like a boss? Do it without using any builtin function like __built
 
 
 Credits:Special thanks to @ syedee  for adding this problem and creating all test cases.
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 Flatten Nested List Iterator 
 ---
@@ -5913,7 +5913,7 @@ Given the list [1,[4,[6]]],
 By calling next repeatedly until hasNext returns false, the order of elements returned by next should be: [1,4,6].
 
 
-==============================
+------------------------------
 
 Power of Four 
 ---
@@ -5929,7 +5929,7 @@ Given num = 5, return false.
 Follow up: Could you solve it without loops/recursion?
 
 Credits:Special thanks to @yukuairoy  for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Integer Break 
 ---
@@ -5952,7 +5952,7 @@ Note: You may assume that n is not less than 2 and not larger than 58.
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Reverse String 
 ---
@@ -5963,7 +5963,7 @@ Write a function that takes a string as input and returns the string reversed.
 Example:
 Given s = "hello", return "olleh".
 
-==============================
+------------------------------
 
 Reverse Vowels of a String 
 ---
@@ -5984,7 +5984,7 @@ Given s = "leetcode", return "leotcede".
 Note:
 The vowels does not include the letter "y".
 
-==============================
+------------------------------
 
 ---
 
@@ -6003,7 +6003,7 @@ Note:
 You may assume k is always valid, 1 ≤ k ≤ number of unique elements.
 Your algorithm's time complexity must be better than O(n log n), where n is the array's size.
 
-==============================
+------------------------------
 
 ---
 
@@ -6024,7 +6024,7 @@ Each element in the result must be unique.
 The result can be in any order.
 
 
-==============================
+------------------------------
 
 Intersection of Two Arrays II 
 ---
@@ -6051,7 +6051,7 @@ What if nums1's size is small compared to nums2's size? Which algorithm is bette
 What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?
 
 
-==============================
+------------------------------
 
 ---
 
@@ -6074,7 +6074,7 @@ What if there are lots of merges and the number of disjoint intervals are small 
 
 
 Credits:Special thanks to @yunhong for adding this problem and creating most of the test cases.
-==============================
+------------------------------
 
 ---
 
@@ -6090,7 +6090,7 @@ What is the maximum number of envelopes can you Russian doll? (put one inside ot
 Example:
 Given envelopes = [[5,4],[6,4],[6,7],[2,3]], the maximum number of envelopes you can Russian doll is 3 ([2,3] => [5,4] => [6,7]).
 
-==============================
+------------------------------
 
 Design Twitter 
 ---
@@ -6134,13 +6134,13 @@ twitter.unfollow(1, 2);
 twitter.getNewsFeed(1);
 
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 Max Sum of Rectangle No Larger Than K 
 ---
@@ -6166,7 +6166,7 @@ What if the number of rows is much larger than the number of columns?
 
 
 Credits:Special thanks to @fujiaozhu for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -6202,7 +6202,7 @@ Output: False
 
 
 Credits:Special thanks to @vinod23 for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 ---
 
@@ -6230,7 +6230,7 @@ Returns: False
 
 
 Credits:Special thanks to @elmirap for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Largest Divisible Subset 
 ---
@@ -6259,9 +6259,9 @@ Result: [1,2,4,8]
 
 
 Credits:Special thanks to @Stomach_ache for adding this problem and creating all test cases.
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 Sum of Two Integers 
 ---
@@ -6273,7 +6273,7 @@ Given a = 1 and b = 2, return 3.
 
 
 Credits:Special thanks to @fujiaozhu for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Super Pow 
 ---
@@ -6301,7 +6301,7 @@ Result: 1024
 
 
 Credits:Special thanks to @Stomach_ache for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Find K Pairs with Smallest Sums 
 ---
@@ -6349,7 +6349,7 @@ All possible pairs are returned from the sequence:
 
 
 Credits:Special thanks to @elmirap and @StefanPochmann for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Guess Number Higher or Lower 
 ---
@@ -6374,7 +6374,7 @@ n = 10, I pick 6.
 Return 6.
 
 
-==============================
+------------------------------
 
 Guess Number Higher or Lower II 
 ---
@@ -6413,7 +6413,7 @@ Given a particular n &ge; 1, find out how much money you need to have to guarant
  
 
 Credits:Special thanks to @agave and @StefanPochmann for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Wiggle Subsequence 
 ---
@@ -6444,7 +6444,7 @@ Can you do it in O(n) time?
 
 
 Credits:Special thanks to @agave and @StefanPochmann for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Combination Sum IV 
 ---
@@ -6477,7 +6477,7 @@ How does it change the problem?
 What limitation we need to add to the question to allow negative numbers? 
 
 Credits:Special thanks to @pbrother for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 Kth Smallest Element in a Sorted Matrix 
 ---
@@ -6503,7 +6503,7 @@ return 13.
 
 Note: 
 You may assume k is always valid, 1 ≤ k ≤ n2.
-==============================
+------------------------------
 
 ---
 
@@ -6547,7 +6547,7 @@ randomSet.insert(2);
 randomSet.getRandom();
 
 
-==============================
+------------------------------
 
 Insert Delete GetRandom O(1) - Duplicates allowed 
 ---
@@ -6586,7 +6586,7 @@ collection.remove(1);
 collection.getRandom();
 
 
-==============================
+------------------------------
 
 Linked List Random Node 
 ---
@@ -6609,7 +6609,7 @@ Solution solution = new Solution(head);
 solution.getRandom();
 
 
-==============================
+------------------------------
 
 Ransom Note 
 ---
@@ -6632,7 +6632,7 @@ canConstruct("aa", "ab") -> false
 canConstruct("aa", "aab") -> true
 
 
-==============================
+------------------------------
 
 Shuffle an Array 
 ---
@@ -6656,7 +6656,7 @@ solution.reset();
 solution.shuffle();
 
 
-==============================
+------------------------------
 
 Mini Parser 
 ---
@@ -6695,7 +6695,7 @@ Return a NestedInteger object containing a nested list with 2 elements:
          a. An integer containing value 789.
 
 
-==============================
+------------------------------
 
 Lexicographical Numbers 
 ---
@@ -6711,7 +6711,7 @@ For example, given 13, return: [1,10,11,12,13,2,3,4,5,6,7,8,9].
 
 Please optimize your algorithm to use less time and space. The input size may be as large as 5,000,000.
 
-==============================
+------------------------------
 
 First Unique Character in a String 
 ---
@@ -6732,7 +6732,7 @@ return 2.
 
 Note: You may assume the string contain only lowercase letters.
 
-==============================
+------------------------------
 
 Longest Absolute File Path 
 ---
@@ -6776,7 +6776,7 @@ The name of a directory or sub-directory will not contain a ..
 Time complexity required: O(n) where n is the size of the input string.
 
 Notice that a/aa/aaa/file1.txt is not the longest file path, if there is another path aaaaaaaaaaaaaaaaaaaaa/sth.png.
-==============================
+------------------------------
 
 Find the Difference 
 ---
@@ -6800,7 +6800,7 @@ e
 Explanation:
 'e' is the letter that was added.
 
-==============================
+------------------------------
 
 Elimination Game 
 ---
@@ -6827,7 +6827,7 @@ Output:
 6
 
 
-==============================
+------------------------------
 
 Perfect Rectangle 
 ---
@@ -6904,7 +6904,7 @@ Return false. Because two of the rectangles overlap with each other.
 
 
 
-==============================
+------------------------------
 
 Is Subsequence 
 ---
@@ -6939,7 +6939,7 @@ Follow up:
 If there are lots of incoming S, say S1, S2, ... , Sk where k >= 1B, and you want to check one by one to see if T has its subsequence. In this scenario, how would you change your code?
 
 Credits:Special thanks to @pbrother for adding this problem and creating all test cases.
-==============================
+------------------------------
 
 UTF-8 Validation 
 ---
@@ -6989,7 +6989,7 @@ The next byte is a continuation byte which starts with 10 and that's correct.
 But the second continuation byte does not start with 10, so it is invalid.
 
 
-==============================
+------------------------------
 
 Decode String 
 ---
@@ -7013,7 +7013,7 @@ s = "3[a2[c]]", return "accaccacc".
 s = "2[abc]3[cd]ef", return "abcabccdcdcdef".
 
 
-==============================
+------------------------------
 
 Longest Substring with At Least K Repeating Characters 
 ---
@@ -7045,7 +7045,7 @@ Output:
 The longest substring is "ababb", as 'a' is repeated 2 times and 'b' is repeated 3 times.
 
 
-==============================
+------------------------------
 
 Rotate Function 
 ---
@@ -7080,7 +7080,7 @@ F(3) = (0 * 3) + (1 * 2) + (2 * 6) + (3 * 4) = 0 + 2 + 12 + 12 = 26
 So the maximum value of F(0), F(1), F(2), F(3) is F(3) = 26.
 
 
-==============================
+------------------------------
 
 Integer Replacement 
 ---
@@ -7129,7 +7129,7 @@ or
 7 -> 6 -> 3 -> 2 -> 1
 
 
-==============================
+------------------------------
 
 Random Pick Index 
 ---
@@ -7155,7 +7155,7 @@ solution.pick(3);
 solution.pick(1);
 
 
-==============================
+------------------------------
 
 Evaluate Division 
 ---
@@ -7179,7 +7179,7 @@ queries = [ ["a", "c"], ["b", "a"], ["a", "e"], ["a", "a"], ["x", "x"] ].
 
 The input is always valid. You may assume that evaluating the queries will result in no division by zero and there is no contradiction.
 
-==============================
+------------------------------
 
 Nth Digit 
 ---
@@ -7212,7 +7212,7 @@ Explanation:
 The 11th digit of the sequence 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ... is a 0, which is part of the number 10.
 
 
-==============================
+------------------------------
 
 Binary Watch 
 ---
@@ -7235,7 +7235,7 @@ The hour must not contain a leading zero, for example "01:00" is not valid, it s
 The minute must be consist of two digits and may contain a leading zero, for example "10:2" is not valid, it should be "10:02".
 
 
-==============================
+------------------------------
 
 Remove K Digits 
 ---
@@ -7274,7 +7274,7 @@ Output: "0"
 Explanation: Remove all the digits from the number and it is left with nothing which is 0.
 
 
-==============================
+------------------------------
 
 Frog Jump 
 ---
@@ -7318,7 +7318,7 @@ Return false. There is no way to jump to the last stone as
 the gap between the 5th and 6th stone is too large.
 
 
-==============================
+------------------------------
 
 Sum of Left Leaves 
 ---
@@ -7336,7 +7336,7 @@ Example:
 There are two left leaves in the binary tree, with values 9 and 15 respectively. Return 24.
 
 
-==============================
+------------------------------
 
 Convert a Number to Hexadecimal 
 ---
@@ -7373,7 +7373,7 @@ Output:
 "ffffffff"
 
 
-==============================
+------------------------------
 
 Queue Reconstruction by Height 
 ---
@@ -7394,7 +7394,7 @@ Output:
 [[5,0], [7,0], [5,2], [6,1], [4,4], [7,1]]
 
 
-==============================
+------------------------------
 
 Trapping Rain Water II 
 ---
@@ -7428,7 +7428,7 @@ The above image represents the elevation map [[1,4,3,1,3,2],[3,2,1,3,2,4],[2,3,3
 
 After the rain, water are trapped between the blocks. The total volume of water trapped is 4.
 
-==============================
+------------------------------
 
 ---
 
@@ -7455,7 +7455,7 @@ Explanation:
 One longest palindrome that can be built is "dccaccd", whose length is 7.
 
 
-==============================
+------------------------------
 
 Split Array Largest Sum 
 ---
@@ -7486,7 +7486,7 @@ The best way is to split it into [7,2,5] and [10,8],
 where the largest sum among the two subarrays is only 18.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -7521,7 +7521,7 @@ Return:
 ]
 
 
-==============================
+------------------------------
 
 Arithmetic Slices 
 ---
@@ -7550,7 +7550,7 @@ A = [1, 2, 3, 4]
 
 return: 3, for 3 arithmetic slices in A: [1, 2, 3], [2, 3, 4] and [1, 2, 3, 4] itself.
 
-==============================
+------------------------------
 
 Third Maximum Number 
 ---
@@ -7587,7 +7587,7 @@ Explanation: Note that the third maximum here means the third maximum distinct n
 Both numbers with value 2 are both considered as second maximum.
 
 
-==============================
+------------------------------
 
 Add Strings 
 ---
@@ -7602,7 +7602,7 @@ Both num1 and num2 does not contain any leading zero.
 You must not use any built-in BigInteger library or convert the inputs to integer directly.
 
 
-==============================
+------------------------------
 
 Partition Equal Subset Sum 
 ---
@@ -7636,7 +7636,7 @@ Output: false
 Explanation: The array cannot be partitioned into equal sum subsets.
 
 
-==============================
+------------------------------
 
 Pacific Atlantic Water Flow 
 ---
@@ -7670,7 +7670,7 @@ Return:
 [[0, 4], [1, 3], [1, 4], [2, 2], [3, 0], [3, 1], [4, 0]] (positions with parentheses in above matrix).
 
 
-==============================
+------------------------------
 
 ---
 
@@ -7700,7 +7700,7 @@ XXXX
 This is an invalid board that you will not receive - as battleships will always have a cell separating between them.
 
 Follow up:Could you do it in one-pass, using only O(1) extra memory and without modifying the value of the board?
-==============================
+------------------------------
 
 Strong Password Checker 
 ---
@@ -7716,7 +7716,7 @@ A password is considered strong if below conditions are all met:
 Write a function strongPasswordChecker(s), that takes a string s as input, and return the MINIMUM change required to make s a strong password. If s is already strong, return 0.
 
 Insertion, deletion or replace of any one character are all considered as one change.
-==============================
+------------------------------
 
 Maximum XOR of Two Numbers in an Array 
 ---
@@ -7736,7 +7736,7 @@ Output: 28
 Explanation: The maximum result is 5 ^ 25 = 28.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -7768,7 +7768,7 @@ Input: "fviefuro"
 Output: "45"
 
 
-==============================
+------------------------------
 
 Longest Repeating Character Replacement 
 ---
@@ -7807,7 +7807,7 @@ Replace the one 'A' in the middle with 'B' and form "AABBBBA".
 The substring "BBBB" has the longest repeating letters, which is 4.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -7828,7 +7828,7 @@ GetMinKey() - Returns one of the keys with minimal value. If no element exists, 
 
 Challenge: Perform all these in O(1) time complexity.
 
-==============================
+------------------------------
 
 Number of Segments in a String 
 ---
@@ -7843,7 +7843,7 @@ Input: "Hello, my name is John"
 Output: 5
 
 
-==============================
+------------------------------
 
 Non-overlapping Intervals 
 ---
@@ -7888,7 +7888,7 @@ Output: 0
 Explanation: You don't need to remove any of the intervals since they're already non-overlapping.
 
 
-==============================
+------------------------------
 
 Find Right Interval 
 ---
@@ -7940,7 +7940,7 @@ Explanation: There is no satisfied "right" interval for [1,4] and [3,4].
 For [2,3], the interval [3,4] has minimum-"right" start point.
 
 
-==============================
+------------------------------
 
 Path Sum III 
 ---
@@ -7973,7 +7973,7 @@ Return 3. The paths that sum to 8 are:
 3. -3 -> 11
 
 
-==============================
+------------------------------
 
 Find All Anagrams in a String 
 ---
@@ -8012,7 +8012,7 @@ The substring with start index = 1 is "ba", which is an anagram of "ab".
 The substring with start index = 2 is "ab", which is an anagram of "ab".
 
 
-==============================
+------------------------------
 
 ---
 
@@ -8035,7 +8035,7 @@ Explanation:
 The lexicographical order is [1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9], so the second smallest number is 10.
 
 
-==============================
+------------------------------
 
 Arranging Coins 
 ---
@@ -8072,7 +8072,7 @@ The coins can form the following rows:
 Because the 4th row is incomplete, we return 3.
 
 
-==============================
+------------------------------
 
 Find All Duplicates in an Array 
 ---
@@ -8091,7 +8091,7 @@ Input:
 Output:
 [2,3]
 
-==============================
+------------------------------
 
 ---
 
@@ -8113,7 +8113,7 @@ Input: (7 -> 2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 8 -> 0 -> 7
 
 
-==============================
+------------------------------
 
 Arithmetic Slices II - Subsequence 
 ---
@@ -8154,7 +8154,7 @@ All arithmetic subsequence slices are:
 [2,6,10]
 
 
-==============================
+------------------------------
 
 Number of Boomerangs 
 ---
@@ -8175,7 +8175,7 @@ Explanation:
 The two boomerangs are [[1,0],[0,0],[2,0]] and [[1,0],[2,0],[0,0]]
 
 
-==============================
+------------------------------
 
 Find All Numbers Disappeared in an Array 
 ---
@@ -8195,7 +8195,7 @@ Output:
 [5,6]
 
 
-==============================
+------------------------------
 
 Serialize and Deserialize BST 
 ---
@@ -8211,7 +8211,7 @@ The encoded string should be as compact as possible.
 
 Note: Do not use class member/global/static variables to store states. Your serialize and deserialize algorithms should be stateless.
 
-==============================
+------------------------------
 
 Delete Node in a BST 
 ---
@@ -8257,7 +8257,7 @@ Another valid answer is [5,2,6,null,4,null,7].
     4   7
 
 
-==============================
+------------------------------
 
 Sort Characters By Frequency 
 ---
@@ -8305,7 +8305,7 @@ Explanation:
 Note that 'A' and 'a' are treated as two different characters.
 
 
-==============================
+------------------------------
 
 Minimum Moves to Equal Array Elements 
 ---
@@ -8326,7 +8326,7 @@ Only three moves are needed (remember each move increments two elements):
 [1,2,3]  =>  [2,3,3]  =>  [3,4,3]  =>  [4,4,4]
 
 
-==============================
+------------------------------
 
 4Sum II 
 ---
@@ -8352,7 +8352,7 @@ The two tuples are:
 2. (1, 1, 0, 0) -> A[1] + B[1] + C[0] + D[0] = 2 + (-1) + (-1) + 0 = 0
 
 
-==============================
+------------------------------
 
 Assign Cookies 
 ---
@@ -8389,7 +8389,7 @@ You have 3 cookies and their sizes are big enough to gratify all of the children
 You need to output 2.
 
 
-==============================
+------------------------------
 
 132 Pattern 
 ---
@@ -8429,7 +8429,7 @@ Output: True
 Explanation: There are three 132 patterns in the sequence: [-1, 3, 2], [-1, 3, 0] and [-1, 2, 0].
 
 
-==============================
+------------------------------
 
 Repeated Substring Pattern 
 ---
@@ -8463,7 +8463,7 @@ Output: True
 Explanation: It's the substring "abc" four times. (And the substring "abcabc" twice.)
 
 
-==============================
+------------------------------
 
 LFU Cache 
 ---
@@ -8495,7 +8495,7 @@ cache.get(3);       // returns 3
 cache.get(4);       // returns 4
 
 
-==============================
+------------------------------
 
 Hamming Distance 
 ---
@@ -8522,7 +8522,7 @@ Explanation:
 The above arrows point to positions where the corresponding bits are different.
 
 
-==============================
+------------------------------
 
 Minimum Moves to Equal Array Elements II 
 ---
@@ -8545,7 +8545,7 @@ Only two moves are needed (remember each move increments or decrements one eleme
 [1,2,3]  =>  [2,2,3]  =>  [2,2,2]
 
 
-==============================
+------------------------------
 
 Island Perimeter 
 ---
@@ -8564,7 +8564,7 @@ Explanation: The perimeter is the 16 yellow stripes in the image below:
 
 
 
-==============================
+------------------------------
 
 Can I Win 
 ---
@@ -8597,7 +8597,7 @@ The second player will win by choosing 10 and get a total = 11, which is >= desi
 Same with other integers chosen by the first player, the second player will always win.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -8618,7 +8618,7 @@ Return:
 2
 
 
-==============================
+------------------------------
 
 Unique Substrings in Wraparound String 
 ---
@@ -8653,7 +8653,7 @@ Output: 6
 Explanation: There are six substrings "z", "a", "b", "za", "ab", "zab" of string "zab" in the string s.
 
 
-==============================
+------------------------------
 
 Validate IP Address 
 ---
@@ -8718,9 +8718,9 @@ Output: "Neither"
 Explanation: This is neither a IPv4 address nor a IPv6 address.
 
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 Concatenated Words 
 ---
@@ -8746,7 +8746,7 @@ All the input string will only include lower case letters.
 The returned elements order does not matter. 
 
 
-==============================
+------------------------------
 
 Matchsticks to Square 
 ---
@@ -8779,7 +8779,7 @@ The length sum of the given matchsticks is in the range of 0 to 10^9.
 The length of the given matchstick array will not exceed 15.
 
 
-==============================
+------------------------------
 
 Ones and Zeroes 
 ---
@@ -8816,7 +8816,7 @@ Output: 2
 Explanation: You could form "10", but then you'd have nothing left. Better form "0" and "1".
 
 
-==============================
+------------------------------
 
 Heaters 
 ---
@@ -8851,7 +8851,7 @@ Output: 1
 Explanation: The two heater was placed in the position 1 and 4. We need to use radius 1 standard, then all the houses can be warmed.
 
 
-==============================
+------------------------------
 
 Number Complement 
 ---
@@ -8880,7 +8880,7 @@ Output: 0
 Explanation: The binary representation of 1 is 1 (no leading zero bits), and its complement is 0. So you need to output 0.
 
 
-==============================
+------------------------------
 
 Total Hamming Distance 
 ---
@@ -8908,7 +8908,7 @@ Elements of the given array are in the range of 0  to 10^9
 Length of the array will not exceed 10^4. 
 
 
-==============================
+------------------------------
 
 Sliding Window Median 
 ---
@@ -8938,7 +8938,7 @@ Therefore, return the median sliding window as [1,-1,-1,3,5,6].
 
 Note: 
 You may assume k is always valid, ie: 1 ≤ k ≤ input array's size for non-empty array.
-==============================
+------------------------------
 
 Magical String 
 ---
@@ -8988,7 +8988,7 @@ Output: 3
 Explanation: The first 6 elements of magical string S is "12211" and it contains three 1's, so return 3.
 
 
-==============================
+------------------------------
 
 License Key Formatting 
 ---
@@ -9028,7 +9028,7 @@ String S consists only of alphanumerical characters (a-z and/or A-Z and/or 0-9) 
 String S is non-empty.
 
 
-==============================
+------------------------------
 
 Smallest Good Base 
 ---
@@ -9066,7 +9066,7 @@ The range of n is [3, 10^18].
 The string representing n is always valid and will not have leading zeros.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -9090,7 +9090,7 @@ The input array will only contain 0 and 1.
 The length of input array is a positive integer and will not exceed 10,000
 
 
-==============================
+------------------------------
 
 Predict the Winner 
 ---
@@ -9122,7 +9122,7 @@ Any scores in the given array are non-negative integers and will not exceed 10,0
 If the scores of both players are equal, then player 1 is still the winner.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -9163,7 +9163,7 @@ The number of balls in your hand won't exceed 5, and the string represents these
 Both input strings will be non-empty and only contain characters 'R','Y','B','G','W'.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -9188,7 +9188,7 @@ The range of integer in the given array is [-100,100].
 The given array may contain duplicates, and two equal integers should also be considered as a special case of increasing sequence.
 
 
-==============================
+------------------------------
 
 Construct the Rectangle 
 ---
@@ -9218,7 +9218,7 @@ The given area won't exceed 10,000,000 and is a positive integer
 The web page's width and length you designed must be positive integers.
 
 
-==============================
+------------------------------
 
 Reverse Pairs 
 ---
@@ -9245,7 +9245,7 @@ The length of the given array will not exceed 50,000.
 All the numbers in the input array are in the range of 32-bit integer.
 
 
-==============================
+------------------------------
 
 Target Sum 
 ---
@@ -9280,7 +9280,7 @@ The sum of elements in the given array will not exceed 1000.
 Your output answer is guaranteed to be fitted in a 32-bit integer.
 
 
-==============================
+------------------------------
 
 Teemo Attacking 
 ---
@@ -9315,7 +9315,7 @@ You may assume the length of given time series array won't exceed 10000.
 You may assume the numbers in the Teemo's attacking time series and his poisoning time duration per attacking are non-negative integers, which won't exceed 10,000,000.
 
 
-==============================
+------------------------------
 
 Next Greater Element I 
 ---
@@ -9356,7 +9356,7 @@ All elements in nums1 and nums2 are unique.
 The length of both nums1 and nums2 would not exceed 1000.
 
 
-==============================
+------------------------------
 
 Diagonal Traverse 
 ---
@@ -9384,7 +9384,7 @@ Note:
 The total number of elements of the given matrix will not exceed 10,000.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -9412,7 +9412,7 @@ You may use one character in the keyboard more than once.
 You may assume the input string will only contain letters of alphabet.
 
 
-==============================
+------------------------------
 
 Find Mode in Binary Search Tree 
 ---
@@ -9450,7 +9450,7 @@ If a tree has more than one mode, you can return them in any order.
 Follow up:
 Could you do that without using any extra space? (Assume that the implicit stack space incurred due to recursion does not count).
 
-==============================
+------------------------------
 
 IPO 
 ---
@@ -9488,7 +9488,7 @@ The length of Profits array and Capital array will not exceed 50,000.
 The answer is guaranteed to fit in a 32-bit signed integer.
 
 
-==============================
+------------------------------
 
 Next Greater Element II 
 ---
@@ -9508,7 +9508,7 @@ Explanation: The first 1's next greater number is 2; The number 2 can't find nex
 Note:
 The length of given array won't exceed 10000.
 
-==============================
+------------------------------
 
 Base 7 
 ---
@@ -9532,7 +9532,7 @@ Output: "-10"
 Note:
 The input will be in range of [-1e7, 1e7].
 
-==============================
+------------------------------
 
 ---
 
@@ -9556,7 +9556,7 @@ N is a positive integer and won't exceed 10,000.
 All the scores of athletes are guaranteed to be unique.
 
 
-==============================
+------------------------------
 
 Perfect Number 
 ---
@@ -9577,7 +9577,7 @@ Explanation: 28 = 1 + 2 + 4 + 7 + 14
 Note:
 The input number n will not exceed 100,000,000. (1e8)
 
-==============================
+------------------------------
 
 Most Frequent Subtree Sum 
 ---
@@ -9609,7 +9609,7 @@ return [2], since 2 happens twice, however -5 only occur once.
 Note:
 You may assume the sum of values in any subtree is in the range of 32-bit signed integer.
 
-==============================
+------------------------------
 
 Find Bottom Left Tree Value 
 ---
@@ -9651,7 +9651,7 @@ Output:
 Note:
 You may assume the tree (i.e., the given root node) is not NULL.
 
-==============================
+------------------------------
 
 Freedom Trail 
 ---
@@ -9694,7 +9694,7 @@ There are only lowercase letters in both strings and might be some duplcate char
 It's guaranteed that string key could always be spelled by rotating the string ring.
 
 
-==============================
+------------------------------
 
 Find Largest Value in Each Tree Row 
 ---
@@ -9714,7 +9714,7 @@ Input:
 Output: [1, 3, 9]
 
 
-==============================
+------------------------------
 
 Longest Palindromic Subsequence 
 ---
@@ -9746,7 +9746,7 @@ Output:
 
 One possible longest palindromic subsequence is "bb".
 
-==============================
+------------------------------
 
 Super Washing Machines 
 ---
@@ -9799,7 +9799,7 @@ The range of n is [1, 10000].
 The range of dresses number in a super washing machine is [0, 1e5].
 
 
-==============================
+------------------------------
 
 Detect Capital 
 ---
@@ -9836,7 +9836,7 @@ Output: False
 Note:
 The input will be a non-empty word consisting of uppercase and lowercase latin letters.
 
-==============================
+------------------------------
 
 ---
 
@@ -9868,7 +9868,7 @@ All the given strings' lengths will not exceed 10.
 The length of the given list will be in the range of [2, 50].
 
 
-==============================
+------------------------------
 
 Continuous Subarray Sum 
 ---
@@ -9901,7 +9901,7 @@ The length of the array won't exceed 10,000.
 You may assume the sum of all the numbers is in the range of a signed 32-bit integer.
 
 
-==============================
+------------------------------
 
 Longest Word in Dictionary through Deleting 
 ---
@@ -9937,7 +9937,7 @@ The size of the dictionary won't exceed 1,000.
 The length of all the strings in the input won't exceed 1,000.
 
 
-==============================
+------------------------------
 
 Contiguous Array 
 ---
@@ -9964,7 +9964,7 @@ Explanation: [0, 1] (or [1, 0]) is a longest contiguous subarray with equal numb
 Note:
 The length of the given binary array will not exceed 50,000.
 
-==============================
+------------------------------
 
 Beautiful Arrangement 
 ---
@@ -10000,7 +10000,7 @@ Note:
 N is a positive integer and will not exceed 15.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -10078,7 +10078,7 @@ The input board won't be a stage when game is over (some mines have been reveale
 For simplicity, not mentioned rules should be ignored in this problem. For example, you don't need to reveal all the unrevealed mines when the game is over, consider any cases that you will win the game or flag any squares.
 
 
-==============================
+------------------------------
 
 Minimum Absolute Difference in BST 
 ---
@@ -10108,7 +10108,7 @@ The minimum absolute difference is 1, which is the difference between 2 and 1 (o
 Note:
 There are at least two nodes in this BST.
 
-==============================
+------------------------------
 
 ---
 
@@ -10151,7 +10151,7 @@ The length of the array won't exceed 10,000.
 All the integers in the given input belong to the range: [-1e7, 1e7].
 
 
-==============================
+------------------------------
 
 ---
 
@@ -10163,7 +10163,7 @@ Note: This is a companion problem to the System Design problem: Design TinyURL.
 TinyURL is a URL shortening service where you enter a URL such as https://leetcode.com/problems/design-tinyurl and it returns a short URL such as http://tinyurl.com/4e9iAk.
 
 Design the encode and decode methods for the TinyURL service. There is no restriction on how your encode/decode algorithm should work. You just need to ensure that a URL can be encoded to a tiny URL and the tiny URL can be decoded to the original URL.
-==============================
+------------------------------
 
 ---
 
@@ -10199,7 +10199,7 @@ The input strings will not have extra blank.
 The input strings will be given in the form of a+bi, where the integer a and b will both belong to the range of [-100, 100]. And the output should be also in this form.
 
 
-==============================
+------------------------------
 
 Convert BST to Greater Tree 
 ---
@@ -10220,7 +10220,7 @@ Output: The root of a Greater Tree like this:
           20     13
 
 
-==============================
+------------------------------
 
 Minimum Time Difference 
 ---
@@ -10240,7 +10240,7 @@ The number of time points in the given list is at least 2 and won't exceed 20000
 The input time is legal and ranges from 00:00 to 23:59.
 
 
-==============================
+------------------------------
 
 Reverse String II 
 ---
@@ -10261,7 +10261,7 @@ Restrictions:
  The string consists of lower English letters only.
  Length of the given string and k will in the range [1, 10000]
 
-==============================
+------------------------------
 
 01 Matrix 
 ---
@@ -10308,7 +10308,7 @@ There are at least one 0 in the given matrix.
 The cells are adjacent in only four directions: up, down, left and right.
 
 
-==============================
+------------------------------
 
 Diameter of Binary Tree 
 ---
@@ -10335,9 +10335,9 @@ Return 3, which is the length of the path [4,2,1,3] or [5,2,1,3].
 Note:
 The length of path between two nodes is represented by the number of edges between them.
 
-==============================
+------------------------------
 
-==============================
+------------------------------
 
 Remove Boxes 
 ---
@@ -10369,7 +10369,7 @@ Explanation:
 Note:
 The number of boxes n would not exceed 100.
 
-==============================
+------------------------------
 
 Friend Circles 
 ---
@@ -10412,7 +10412,7 @@ M[i][i] = 1 for all students.
 If M[i][j] = 1, then M[j][i] = 1.
 
 
-==============================
+------------------------------
 
 ---
 
@@ -10462,7 +10462,7 @@ If you can enable caching, what would you cache and what's the expiry time? (Con
   border: 1px solid #e1e1e8"
 }
 
-==============================
+------------------------------
 
 License Key Formatting 
 ---
@@ -10502,7 +10502,7 @@ String S consists only of alphanumerical characters (a-z and/or A-Z and/or 0-9) 
 String S is non-empty.
 
 
-==============================
+------------------------------
 
 Longest Absolute File Path 
 ---
@@ -10546,7 +10546,7 @@ The name of a directory or sub-directory will not contain a ..
 Time complexity required: O(n) where n is the size of the input string.
 
 Notice that a/aa/aaa/file1.txt is not the longest file path, if there is another path aaaaaaaaaaaaaaaaaaaaa/sth.png.
-==============================
+------------------------------
 
 Encode and Decode TinyURL 
 ---
@@ -10556,7 +10556,7 @@ Note: This is a companion problem to the System Design problem: Design TinyURL.
 TinyURL is a URL shortening service where you enter a URL such as https://leetcode.com/problems/design-tinyurl and it returns a short URL such as http://tinyurl.com/4e9iAk.
 
 Design the encode and decode methods for the TinyURL service. There is no restriction on how your encode/decode algorithm should work. You just need to ensure that a URL can be encoded to a tiny URL and the tiny URL can be decoded to the original URL.
-==============================
+------------------------------
 
 Coin Change 2 
 ---
@@ -10599,7 +10599,7 @@ Input: amount = 10, coins = [10]
 Output: 1
 
 
-==============================
+------------------------------
 
 Poor Pigs 
 ---
@@ -10618,7 +10618,7 @@ Follow-up:
 
 If there are n buckets and a pig drinking poison will die within m minutes, how many pigs (x) you need to figure out the "poison" bucket within p minutes? There is exact one bucket with poison.
 
-==============================
+------------------------------
 
 Minimum Genetic Mutation 
 ---
@@ -10670,7 +10670,7 @@ bank: ["AAAACCCC", "AAACCCCC", "AACCCCCC"]
 return: 3
 
 
-==============================
+------------------------------
 
 LFU Cache 
 ---
@@ -10702,7 +10702,7 @@ cache.get(3);       // returns 3
 cache.get(4);       // returns 4
 
 
-==============================
+------------------------------
 
 ---
 
