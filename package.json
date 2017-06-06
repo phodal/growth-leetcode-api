@@ -18,6 +18,6 @@
   "homepage": "https://github.com/phodal/growth-leetcode-api#readme",
   "dependencies": {
     "lodash": "^4.17.4",
-    "mdast": "^3.0.0"
+    "mdast": "2.0"
   }
 }
