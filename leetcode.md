@@ -1,7 +1,4 @@
 
-Leetcode Offline 
-===
-
 Single Element in a Sorted Array 
 ---
 
