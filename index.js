@@ -1,12 +1,18 @@
-var MarkdownIt = require('markdown-it');
 var fs = require('fs');
 var _ = require('lodash');
 
-var md = new MarkdownIt();
+var md = require( "markdown" ).markdown;
 var raw = fs.readFileSync(__dirname + '/demo.md', 'utf8');
 
 function getData(str) {
-   
+  var mdTree = md.parse(str);
+  var heading = '';
+
+  _.each(mdTree, function(section){
+    if(section[0] && section[0] === 'header') {
+      heading = section[3]
+    }
+  })
 }
 
 var result = getData(raw);
