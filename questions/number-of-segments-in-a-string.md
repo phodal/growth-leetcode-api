@@ -1,5 +1,3 @@
-
-
 Number of Segments in a String 
 ---
 

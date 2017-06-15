@@ -1,5 +1,3 @@
-
-
 Multiply Strings 
 ---
 

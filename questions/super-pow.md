@@ -1,5 +1,3 @@
-
-
 Super Pow 
 ---
 

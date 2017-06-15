@@ -1,5 +1,3 @@
-
-
 ---
 
 Range Sum Query - Immutable 

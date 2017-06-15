@@ -6,7 +6,7 @@ var md = require( "markdown" ).markdown;
 var raw = fs.readFileSync(__dirname + '/leetcode.md', 'utf8');
 
 function getData(str) {
-  var questionsArray = str.split('==============================');
+  var questionsArray = str.split('==============================\n\n');
   var questionsAPI = [];
 
   for(var index in questionsArray) {
@@ -24,10 +24,12 @@ function getData(str) {
 
 	questionsAPI.push({
 		name: heading,
-		fileName: fileName
+		path: 'questions/' + fileName + '.md'
 	})
 
-	fs.writeFileSync(__dirname + '/questions/' + fileName + '.md', question);
+	if(!!fileName){
+		fs.writeFileSync(__dirname + '/questions/' + fileName + '.md', question);
+	}
   }
 
   fs.writeFileSync(__dirname + '/api.json', JSON.stringify(questionsAPI));

@@ -1,5 +1,3 @@
-
-
 Queue Reconstruction by Height 
 ---
 

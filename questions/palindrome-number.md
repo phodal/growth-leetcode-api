@@ -1,5 +1,3 @@
-
-
 Palindrome Number 
 ---
 

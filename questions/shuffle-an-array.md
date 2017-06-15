@@ -1,5 +1,3 @@
-
-
 Shuffle an Array 
 ---
 

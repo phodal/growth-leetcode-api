@@ -1,5 +1,3 @@
-
-
 Magical String 
 ---
 

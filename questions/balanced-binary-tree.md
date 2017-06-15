@@ -1,5 +1,3 @@
-
-
 Balanced Binary Tree 
 ---
 

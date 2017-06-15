@@ -1,5 +1,3 @@
-
-
 Strong Password Checker 
 ---
 

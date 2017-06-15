@@ -1,5 +1,3 @@
-
-
 Perfect Rectangle 
 ---
 

@@ -1,5 +1,3 @@
-
-
 Minimum Genetic Mutation 
 ---
 

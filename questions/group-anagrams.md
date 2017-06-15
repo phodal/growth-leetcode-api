@@ -1,5 +1,3 @@
-
-
 Group Anagrams 
 ---
 

@@ -1,5 +1,3 @@
-
-
 Validate IP Address 
 ---
 

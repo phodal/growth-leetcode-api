@@ -1,5 +1,3 @@
-
-
 Smallest Good Base 
 ---
 

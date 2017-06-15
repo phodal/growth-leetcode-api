@@ -1,5 +1,3 @@
-
-
 Elimination Game 
 ---
 

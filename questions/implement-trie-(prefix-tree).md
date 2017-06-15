@@ -1,5 +1,3 @@
-
-
 Implement Trie (Prefix Tree) 
 ---
 

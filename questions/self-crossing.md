@@ -1,5 +1,3 @@
-
-
 Self Crossing 
 ---
 

@@ -1,5 +1,3 @@
-
-
 Ugly Number II 
 ---
 

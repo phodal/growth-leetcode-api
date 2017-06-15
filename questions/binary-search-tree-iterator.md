@@ -1,5 +1,3 @@
-
-
 Binary Search Tree Iterator 
 ---
 

@@ -1,5 +1,3 @@
-
-
 ---
 
 Longest Uncommon Subsequence II 

@@ -1,5 +1,3 @@
-
-
 Container With Most Water 
 ---
 

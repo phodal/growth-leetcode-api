@@ -1,5 +1,3 @@
-
-
 Sliding Window Median 
 ---
 

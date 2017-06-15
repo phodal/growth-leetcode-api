@@ -1,5 +1,3 @@
-
-
 Unique Paths 
 ---
 

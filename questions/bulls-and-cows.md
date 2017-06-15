@@ -1,5 +1,3 @@
-
-
 ---
 
 Bulls and Cows 

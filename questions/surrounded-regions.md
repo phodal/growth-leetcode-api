@@ -1,5 +1,3 @@
-
-
 Surrounded Regions 
 ---
 

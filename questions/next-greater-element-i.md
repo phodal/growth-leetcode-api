@@ -1,5 +1,3 @@
-
-
 Next Greater Element I 
 ---
 

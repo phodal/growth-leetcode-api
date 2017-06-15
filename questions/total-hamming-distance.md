@@ -1,5 +1,3 @@
-
-
 Total Hamming Distance 
 ---
 

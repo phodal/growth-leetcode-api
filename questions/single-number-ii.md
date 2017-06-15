@@ -1,5 +1,3 @@
-
-
 Single Number II 
 ---
 

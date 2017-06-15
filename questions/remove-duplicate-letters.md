@@ -1,5 +1,3 @@
-
-
 Remove Duplicate Letters 
 ---
 

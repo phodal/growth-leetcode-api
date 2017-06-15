@@ -1,5 +1,3 @@
-
-
 Contiguous Array 
 ---
 

@@ -1,5 +1,3 @@
-
-
 Power of Two 
 ---
 

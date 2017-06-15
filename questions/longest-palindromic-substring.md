@@ -1,5 +1,3 @@
-
-
 Longest Palindromic Substring 
 ---
 

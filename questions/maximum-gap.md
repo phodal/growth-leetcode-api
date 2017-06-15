@@ -1,5 +1,3 @@
-
-
 ---
 
 Maximum Gap 

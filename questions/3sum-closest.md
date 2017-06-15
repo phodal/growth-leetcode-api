@@ -1,5 +1,3 @@
-
-
 3Sum Closest 
 ---
 

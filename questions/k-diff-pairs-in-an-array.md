@@ -1,5 +1,3 @@
-
-
 ---
 
 K-diff Pairs in an Array 

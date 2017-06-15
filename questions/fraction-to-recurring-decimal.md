@@ -1,5 +1,3 @@
-
-
 Fraction to Recurring Decimal 
 ---
 

@@ -1,5 +1,3 @@
-
-
 Valid Anagram 
 ---
 

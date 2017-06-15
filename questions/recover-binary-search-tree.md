@@ -1,5 +1,3 @@
-
-
 Recover Binary Search Tree 
 ---
 

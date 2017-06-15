@@ -1,5 +1,3 @@
-
-
 Scramble String 
 ---
 

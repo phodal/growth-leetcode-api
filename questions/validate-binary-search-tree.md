@@ -1,5 +1,3 @@
-
-
 Validate Binary Search Tree 
 ---
 

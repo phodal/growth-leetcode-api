@@ -1,5 +1,3 @@
-
-
 Longest Increasing Subsequence 
 ---
 

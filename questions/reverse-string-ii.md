@@ -1,5 +1,3 @@
-
-
 Reverse String II 
 ---
 

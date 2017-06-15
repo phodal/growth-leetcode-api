@@ -1,5 +1,3 @@
-
-
 ---
 
 Repeated DNA Sequences 

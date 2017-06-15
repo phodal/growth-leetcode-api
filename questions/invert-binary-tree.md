@@ -1,5 +1,3 @@
-
-
 Invert Binary Tree 
 ---
 

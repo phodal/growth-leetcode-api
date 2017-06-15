@@ -1,5 +1,3 @@
-
-
 Beautiful Arrangement 
 ---
 

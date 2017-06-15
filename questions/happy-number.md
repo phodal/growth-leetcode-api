@@ -1,5 +1,3 @@
-
-
 Happy Number 
 ---
 

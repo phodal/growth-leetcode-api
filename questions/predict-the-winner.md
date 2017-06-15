@@ -1,5 +1,3 @@
-
-
 Predict the Winner 
 ---
 

@@ -1,5 +1,3 @@
-
-
 ---
 
 Max Consecutive Ones 

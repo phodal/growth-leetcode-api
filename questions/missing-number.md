@@ -1,5 +1,3 @@
-
-
 ---
 
 Missing Number 

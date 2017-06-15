@@ -1,5 +1,3 @@
-
-
 Regular Expression Matching 
 ---
 

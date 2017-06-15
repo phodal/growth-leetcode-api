@@ -1,5 +1,3 @@
-
-
 Freedom Trail 
 ---
 

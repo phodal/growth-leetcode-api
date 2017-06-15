@@ -1,5 +1,3 @@
-
-
 Frog Jump 
 ---
 

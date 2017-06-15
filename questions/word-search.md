@@ -1,5 +1,3 @@
-
-
 Word Search 
 ---
 

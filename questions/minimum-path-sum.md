@@ -1,5 +1,3 @@
-
-
 Minimum Path Sum 
 ---
 

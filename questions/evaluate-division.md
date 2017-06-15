@@ -1,5 +1,3 @@
-
-
 Evaluate Division 
 ---
 

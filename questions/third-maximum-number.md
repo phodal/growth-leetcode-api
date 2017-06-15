@@ -1,5 +1,3 @@
-
-
 Third Maximum Number 
 ---
 

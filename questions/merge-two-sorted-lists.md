@@ -1,5 +1,3 @@
-
-
 Merge Two Sorted Lists 
 ---
 

@@ -1,5 +1,3 @@
-
-
 Find the Duplicate Number 
 ---
 

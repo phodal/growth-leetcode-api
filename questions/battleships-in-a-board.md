@@ -1,5 +1,3 @@
-
-
 ---
 
 Battleships in a Board 

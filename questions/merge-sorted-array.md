@@ -1,5 +1,3 @@
-
-
 Merge Sorted Array 
 ---
 

@@ -1,5 +1,3 @@
-
-
 ---
 
 Top K Frequent Elements 

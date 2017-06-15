@@ -1,5 +1,3 @@
-
-
 Diameter of Binary Tree 
 ---
 

@@ -1,5 +1,3 @@
-
-
 Longest Consecutive Sequence 
 ---
 

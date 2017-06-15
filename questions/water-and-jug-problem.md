@@ -1,5 +1,3 @@
-
-
 ---
 
 Water and Jug Problem 

@@ -1,5 +1,3 @@
-
-
 ---
 
 Create Maximum Number 

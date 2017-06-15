@@ -1,5 +1,3 @@
-
-
 Palindrome Linked List 
 ---
 

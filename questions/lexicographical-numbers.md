@@ -1,5 +1,3 @@
-
-
 Lexicographical Numbers 
 ---
 

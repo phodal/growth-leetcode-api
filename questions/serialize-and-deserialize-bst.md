@@ -1,5 +1,3 @@
-
-
 Serialize and Deserialize BST 
 ---
 

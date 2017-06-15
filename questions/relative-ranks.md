@@ -1,5 +1,3 @@
-
-
 ---
 
 Relative Ranks 

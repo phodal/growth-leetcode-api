@@ -1,5 +1,3 @@
-
-
 Count Complete Tree Nodes 
 ---
 

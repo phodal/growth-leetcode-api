@@ -1,5 +1,3 @@
-
-
 Super Washing Machines 
 ---
 

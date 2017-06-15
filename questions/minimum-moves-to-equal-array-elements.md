@@ -1,5 +1,3 @@
-
-
 Minimum Moves to Equal Array Elements 
 ---
 

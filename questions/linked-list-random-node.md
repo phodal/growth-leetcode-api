@@ -1,5 +1,3 @@
-
-
 Linked List Random Node 
 ---
 

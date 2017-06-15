@@ -1,5 +1,3 @@
-
-
 Search for a Range 
 ---
 

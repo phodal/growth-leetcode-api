@@ -1,5 +1,3 @@
-
-
 Longest Valid Parentheses 
 ---
 

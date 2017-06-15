@@ -1,5 +1,3 @@
-
-
 Continuous Subarray Sum 
 ---
 

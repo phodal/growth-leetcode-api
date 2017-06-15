@@ -1,5 +1,3 @@
-
-
 Split Array Largest Sum 
 ---
 

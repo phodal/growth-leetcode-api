@@ -1,5 +1,3 @@
-
-
 Insertion Sort List 
 ---
 

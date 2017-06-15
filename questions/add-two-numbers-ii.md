@@ -1,5 +1,3 @@
-
-
 ---
 
 Add Two Numbers II 

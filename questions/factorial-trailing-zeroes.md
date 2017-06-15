@@ -1,5 +1,3 @@
-
-
 Factorial Trailing Zeroes 
 ---
 

@@ -1,5 +1,3 @@
-
-
 Random Pick Index 
 ---
 

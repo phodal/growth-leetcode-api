@@ -1,5 +1,3 @@
-
-
 Compare Version Numbers 
 ---
 

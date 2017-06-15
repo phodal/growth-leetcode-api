@@ -1,5 +1,3 @@
-
-
 Next Permutation 
 ---
 

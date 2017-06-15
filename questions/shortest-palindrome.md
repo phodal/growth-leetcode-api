@@ -1,5 +1,3 @@
-
-
 Shortest Palindrome 
 ---
 

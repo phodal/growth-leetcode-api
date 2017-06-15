@@ -1,5 +1,3 @@
-
-
 Count and Say 
 ---
 

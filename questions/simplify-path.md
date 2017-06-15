@@ -1,5 +1,3 @@
-
-
 Simplify Path 
 ---
 

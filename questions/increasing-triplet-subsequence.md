@@ -1,6 +1,4 @@
 
-
-
 Increasing Triplet Subsequence 
 ---
 

@@ -1,5 +1,3 @@
-
-
 Ransom Note 
 ---
 

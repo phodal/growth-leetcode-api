@@ -1,5 +1,3 @@
-
-
 Flatten Nested List Iterator 
 ---
 

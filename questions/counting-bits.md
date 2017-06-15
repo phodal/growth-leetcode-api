@@ -1,5 +1,3 @@
-
-
 Counting Bits 
 ---
 

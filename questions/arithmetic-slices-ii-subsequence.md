@@ -1,5 +1,3 @@
-
-
 Arithmetic Slices II - Subsequence 
 ---
 

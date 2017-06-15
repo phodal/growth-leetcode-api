@@ -1,5 +1,3 @@
-
-
 Text Justification 
 ---
 

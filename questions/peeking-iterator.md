@@ -1,5 +1,3 @@
-
-
 Peeking Iterator 
 ---
 

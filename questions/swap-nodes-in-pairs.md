@@ -1,5 +1,3 @@
-
-
 Swap Nodes in Pairs 
 ---
 

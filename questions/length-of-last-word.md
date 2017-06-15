@@ -1,5 +1,3 @@
-
-
 Length of Last Word 
 ---
 

@@ -1,5 +1,3 @@
-
-
 Unique Binary Search Trees 
 ---
 

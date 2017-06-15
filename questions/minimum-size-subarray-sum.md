@@ -1,5 +1,3 @@
-
-
 Minimum Size Subarray Sum 
 ---
 

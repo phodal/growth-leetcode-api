@@ -1,5 +1,3 @@
-
-
 Evaluate Reverse Polish Notation 
 ---
 

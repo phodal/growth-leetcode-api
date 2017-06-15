@@ -1,5 +1,3 @@
-
-
 Reverse Vowels of a String 
 ---
 

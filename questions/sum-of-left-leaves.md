@@ -1,5 +1,3 @@
-
-
 Sum of Left Leaves 
 ---
 

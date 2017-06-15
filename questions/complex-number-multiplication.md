@@ -1,5 +1,3 @@
-
-
 ---
 
 Complex Number Multiplication 

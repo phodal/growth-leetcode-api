@@ -1,5 +1,3 @@
-
-
 Convert a Number to Hexadecimal 
 ---
 

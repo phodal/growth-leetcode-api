@@ -1,5 +1,3 @@
-
-
 Pascal's Triangle II 
 ---
 

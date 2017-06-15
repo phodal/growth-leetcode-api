@@ -1,5 +1,3 @@
-
-
 Count of Range Sum 
 ---
 

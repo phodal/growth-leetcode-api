@@ -1,5 +1,3 @@
-
-
 Diagonal Traverse 
 ---
 

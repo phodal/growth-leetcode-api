@@ -1,5 +1,3 @@
-
-
 Maximal Square 
 ---
 

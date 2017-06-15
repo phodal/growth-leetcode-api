@@ -1,5 +1,3 @@
-
-
 Binary Tree Inorder Traversal 
 ---
 

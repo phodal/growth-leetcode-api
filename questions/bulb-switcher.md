@@ -1,5 +1,3 @@
-
-
 Bulb Switcher 
 ---
 

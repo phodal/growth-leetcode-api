@@ -1,5 +1,3 @@
-
-
 ---
 
 Find Peak Element 

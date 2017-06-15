@@ -1,5 +1,3 @@
-
-
 Coin Change 
 ---
 

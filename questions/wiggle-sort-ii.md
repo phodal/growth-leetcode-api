@@ -1,5 +1,3 @@
-
-
 ---
 
 Wiggle Sort II 

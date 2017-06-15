@@ -1,5 +1,3 @@
-
-
 Majority Element II 
 ---
 

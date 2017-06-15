@@ -1,5 +1,3 @@
-
-
 Course Schedule II 
 ---
 

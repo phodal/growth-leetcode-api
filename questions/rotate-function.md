@@ -1,5 +1,3 @@
-
-
 Rotate Function 
 ---
 

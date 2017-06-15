@@ -1,5 +1,3 @@
-
-
 Divide Two Integers 
 ---
 

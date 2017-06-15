@@ -1,5 +1,3 @@
-
-
 Number of Islands 
 ---
 

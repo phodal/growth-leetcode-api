@@ -1,5 +1,3 @@
-
-
 ---
 
 Intersection of Two Arrays 

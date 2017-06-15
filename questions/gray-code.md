@@ -1,5 +1,3 @@
-
-
 Gray Code 
 ---
 

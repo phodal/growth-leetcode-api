@@ -1,5 +1,3 @@
-
-
 Binary Tree Postorder Traversal 
 ---
 

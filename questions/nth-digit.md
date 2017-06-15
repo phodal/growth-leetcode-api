@@ -1,5 +1,3 @@
-
-
 Nth Digit 
 ---
 

@@ -1,5 +1,3 @@
-
-
 Merge k Sorted Lists 
 ---
 

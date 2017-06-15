@@ -1,5 +1,3 @@
-
-
 Longest Repeating Character Replacement 
 ---
 

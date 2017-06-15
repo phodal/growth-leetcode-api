@@ -1,5 +1,3 @@
-
-
 Linked List Cycle II 
 ---
 

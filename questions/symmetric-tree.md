@@ -1,5 +1,3 @@
-
-
 Symmetric Tree 
 ---
 

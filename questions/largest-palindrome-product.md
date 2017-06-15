@@ -1,5 +1,3 @@
-
-
 Largest Palindrome Product 
 ---
 

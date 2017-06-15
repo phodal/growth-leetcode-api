@@ -1,5 +1,3 @@
-
-
 ---
 
 Zuma Game 

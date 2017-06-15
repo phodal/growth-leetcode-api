@@ -1,5 +1,3 @@
-
-
 Arranging Coins 
 ---
 

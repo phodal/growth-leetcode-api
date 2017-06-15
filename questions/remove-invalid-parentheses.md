@@ -1,5 +1,3 @@
-
-
 Remove Invalid Parentheses 
 ---
 

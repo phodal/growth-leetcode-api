@@ -1,5 +1,3 @@
-
-
 Remove Linked List Elements 
 ---
 

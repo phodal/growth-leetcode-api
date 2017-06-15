@@ -1,5 +1,3 @@
-
-
 Largest Rectangle in Histogram 
 ---
 

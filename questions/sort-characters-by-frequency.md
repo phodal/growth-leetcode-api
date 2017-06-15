@@ -1,5 +1,3 @@
-
-
 Sort Characters By Frequency 
 ---
 

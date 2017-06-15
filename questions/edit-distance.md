@@ -1,5 +1,3 @@
-
-
 Edit Distance 
 ---
 

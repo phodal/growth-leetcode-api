@@ -1,5 +1,3 @@
-
-
 ---
 
 Additive Number 

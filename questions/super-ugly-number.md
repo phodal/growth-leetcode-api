@@ -1,5 +1,3 @@
-
-
 Super Ugly Number 
 ---
 
